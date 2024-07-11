@@ -7,7 +7,7 @@ Synced automatically by LeetSync.
 
 | Solved | Easy | Medium | Hard | Solutions saved |
 |:-:|:-:|:-:|:-:|:-:|
-| **8** | 8 | 0 | 0 | 8 |
+| **11** | 11 | 0 | 0 | 17 |
 
 | # | Problem | Difficulty | Solutions | Languages |
 |--:|---------|------------|:-:|-----------|
@@ -19,6 +19,9 @@ Synced automatically by LeetSync.
 | 35 | [Search Insert Position](0035-search-insert-position/) | Easy | 1 | Java |
 | 58 | [Length of Last Word](0058-length-of-last-word/) | Easy | 1 | Java |
 | 66 | [Plus One](0066-plus-one/) | Easy | 1 | Java |
+| 202 | [Happy Number](0202-happy-number/) | Easy | 1 | Java |
+| 231 | [Power of Two](0231-power-of-two/) | Easy | 5 | Java |
+| 258 | [Add Digits](0258-add-digits/) | Easy | 3 | Java |
 
 <sub>Updated automatically by LeetSync.</sub>
 <!-- LEETSYNC:END -->
