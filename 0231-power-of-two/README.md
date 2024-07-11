@@ -52,5 +52,6 @@
 | 2 | [2-power-of-two.java](2-power-of-two.java) | Java | Accepted | 0 ms (beats 100.0%) | 40.8 MB (beats 100.0%) | 2024-07-11 |
 | 3 | [3-power-of-two.java](3-power-of-two.java) | Java | Accepted | 0 ms (beats 100.0%) | 40.9 MB (beats 100.0%) | 2024-07-11 |
 | 4 | [4-power-of-two.java](4-power-of-two.java) | Java | Accepted | 0 ms (beats 100.0%) | 40.6 MB (beats 100.0%) | 2024-07-11 |
+| 5 | [5-power-of-two.java](5-power-of-two.java) | Java | Accepted | 0 ms (beats 100.0%) | 41.2 MB (beats 100.0%) | 2024-07-11 |
 
 <sub>Synced by LeetSync</sub>
