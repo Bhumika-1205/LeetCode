@@ -42,5 +42,6 @@ Since 2 has only one digit, return it.
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [add-digits.java](add-digits.java) | Java | Accepted | 1 ms (beats 98.2%) | 40.7 MB (beats 100.0%) | 2024-07-11 |
+| 2 | [2-add-digits.java](2-add-digits.java) | Java | Accepted | 1 ms (beats 98.2%) | 40.9 MB (beats 100.0%) | 2024-07-11 |
 
 <sub>Synced by LeetSync</sub>
