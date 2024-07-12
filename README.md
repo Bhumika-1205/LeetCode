@@ -7,7 +7,7 @@ Synced automatically by LeetSync.
 
 | Solved | Easy | Medium | Hard | Solutions saved |
 |:-:|:-:|:-:|:-:|:-:|
-| **14** | 14 | 0 | 0 | 22 |
+| **21** | 21 | 0 | 0 | 30 |
 
 | # | Problem | Difficulty | Solutions | Languages |
 |--:|---------|------------|:-:|-----------|
@@ -24,7 +24,14 @@ Synced automatically by LeetSync.
 | 231 | [Power of Two](0231-power-of-two/) | Easy | 5 | Java |
 | 258 | [Add Digits](0258-add-digits/) | Easy | 4 | Java |
 | 268 | [Missing Number](0268-missing-number/) | Easy | 2 | Java |
-| 292 | [Nim Game](0292-nim-game/) | Easy | 1 | Java |
+| 292 | [Nim Game](0292-nim-game/) | Easy | 2 | Java |
+| 326 | [Power of Three](0326-power-of-three/) | Easy | 1 | Java |
+| 342 | [Power of Four](0342-power-of-four/) | Easy | 1 | Java |
+| 412 | [Fizz Buzz](0412-fizz-buzz/) | Easy | 1 | Java |
+| 492 | [Construct the Rectangle](0492-construct-the-rectangle/) | Easy | 1 | Java |
+| 504 | [Base 7](0504-base-7/) | Easy | 1 | Java |
+| 507 | [Perfect Number](0507-perfect-number/) | Easy | 1 | Java |
+| 509 | [Fibonacci Number](0509-fibonacci-number/) | Easy | 1 | Java |
 
 <sub>Updated automatically by LeetSync.</sub>
 <!-- LEETSYNC:END -->
