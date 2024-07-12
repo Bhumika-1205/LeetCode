@@ -56,5 +56,6 @@ In all outcomes, your friend wins.
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [nim-game.java](nim-game.java) | Java | Accepted | 0 ms (beats 100.0%) | 39.8 MB (beats 100.0%) | 2024-07-12 |
+| 2 | [2-nim-game.java](2-nim-game.java) | Java | Accepted | 0 ms (beats 100.0%) | 40.6 MB (beats 100.0%) | 2024-07-12 |
 
 <sub>Synced by LeetSync</sub>
