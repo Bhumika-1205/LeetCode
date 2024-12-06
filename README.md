@@ -7,7 +7,7 @@ Synced automatically by LeetSync.
 
 | Solved | Easy | Medium | Hard | Solutions saved |
 |:-:|:-:|:-:|:-:|:-:|
-| **21** | 21 | 0 | 0 | 30 |
+| **28** | 28 | 0 | 0 | 37 |
 
 | # | Problem | Difficulty | Solutions | Languages |
 |--:|---------|------------|:-:|-----------|
@@ -20,18 +20,25 @@ Synced automatically by LeetSync.
 | 35 | [Search Insert Position](0035-search-insert-position/) | Easy | 1 | Java |
 | 58 | [Length of Last Word](0058-length-of-last-word/) | Easy | 1 | Java |
 | 66 | [Plus One](0066-plus-one/) | Easy | 1 | Java |
+| 67 | [Add Binary](0067-add-binary/) | Easy | 1 | Java |
+| 69 | [Sqrt(x)](0069-sqrtx/) | Easy | 1 | Java |
 | 202 | [Happy Number](0202-happy-number/) | Easy | 1 | Java |
+| 217 | [Contains Duplicate](0217-contains-duplicate/) | Easy | 1 | Java |
 | 231 | [Power of Two](0231-power-of-two/) | Easy | 5 | Java |
 | 258 | [Add Digits](0258-add-digits/) | Easy | 4 | Java |
 | 268 | [Missing Number](0268-missing-number/) | Easy | 2 | Java |
+| 283 | [Move Zeroes](0283-move-zeroes/) | Easy | 1 | Java |
 | 292 | [Nim Game](0292-nim-game/) | Easy | 2 | Java |
 | 326 | [Power of Three](0326-power-of-three/) | Easy | 1 | Java |
 | 342 | [Power of Four](0342-power-of-four/) | Easy | 1 | Java |
+| 344 | [Reverse String](0344-reverse-string/) | Easy | 1 | Java |
 | 412 | [Fizz Buzz](0412-fizz-buzz/) | Easy | 1 | Java |
 | 492 | [Construct the Rectangle](0492-construct-the-rectangle/) | Easy | 1 | Java |
 | 504 | [Base 7](0504-base-7/) | Easy | 1 | Java |
 | 507 | [Perfect Number](0507-perfect-number/) | Easy | 1 | Java |
 | 509 | [Fibonacci Number](0509-fibonacci-number/) | Easy | 1 | Java |
+| 728 | [Self Dividing Numbers](0728-self-dividing-numbers/) | Easy | 1 | Java |
+| 1281 | [Subtract the Product and Sum of Digits of an Integer](1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | 1 | C++ |
 
 <sub>Updated automatically by LeetSync.</sub>
 <!-- LEETSYNC:END -->
