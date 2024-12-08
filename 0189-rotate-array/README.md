@@ -53,5 +53,6 @@ rotate 2 steps to the right: [3,99,-1,-100]
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [rotate-array.java](rotate-array.java) | Java | Accepted | 1 ms (beats 100.0%) | 56.9 MB (beats 100.0%) | 2024-12-08 |
 | 2 | [2-rotate-array.java](2-rotate-array.java) | Java | Accepted | 21 ms (beats 5.1%) | 55.9 MB (beats 100.0%) | 2024-12-08 |
+| 3 | [3-rotate-array.java](3-rotate-array.java) | Java | Accepted | 0 ms (beats 100.0%) | 57.9 MB (beats 100.0%) | 2024-12-08 |
 
 <sub>Synced by LeetSync</sub>
