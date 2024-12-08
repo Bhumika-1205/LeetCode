@@ -62,5 +62,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [find-if-digit-game-can-be-won.java](find-if-digit-game-can-be-won.java) | Java | Accepted | 1 ms (beats 91.6%) | 44.2 MB (beats 100.0%) | 2024-12-08 |
+| 2 | [2-find-if-digit-game-can-be-won.java](2-find-if-digit-game-can-be-won.java) | Java | Accepted | 0 ms (beats 100.0%) | 44.1 MB (beats 100.0%) | 2024-12-08 |
 
 <sub>Synced by LeetSync</sub>
