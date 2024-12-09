@@ -49,5 +49,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [neither-minimum-nor-maximum.java](neither-minimum-nor-maximum.java) | Java | Accepted | 9 ms (beats 31.1%) | 45 MB (beats 100.0%) | 2024-12-09 |
+| 2 | [2-neither-minimum-nor-maximum.java](2-neither-minimum-nor-maximum.java) | Java | Accepted | 9 ms (beats 31.1%) | 45.4 MB (beats 100.0%) | 2024-12-09 |
 
 <sub>Synced by LeetSync</sub>
