@@ -38,5 +38,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [find-first-and-last-position-of-element-in-sorted-array.java](find-first-and-last-position-of-element-in-sorted-array.java) | Java | Accepted | 1 ms (beats 0.9%) | 46.1 MB (beats 100.0%) | 2024-12-11 |
+| 2 | [2-find-first-and-last-position-of-element-in-sorted-array.java](2-find-first-and-last-position-of-element-in-sorted-array.java) | Java | Accepted | 0 ms (beats 100.0%) | 46.1 MB (beats 100.0%) | 2024-12-11 |
 
 <sub>Synced by LeetSync</sub>
