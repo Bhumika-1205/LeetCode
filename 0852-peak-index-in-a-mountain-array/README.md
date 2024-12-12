@@ -52,5 +52,6 @@
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [peak-index-in-a-mountain-array.java](peak-index-in-a-mountain-array.java) | Java | Accepted | 0 ms (beats 100.0%) | 56.3 MB (beats 100.0%) | 2024-12-11 |
 | 2 | [2-peak-index-in-a-mountain-array.java](2-peak-index-in-a-mountain-array.java) | Java | Accepted | 0 ms (beats 100.0%) | 55.9 MB (beats 100.0%) | 2024-12-12 |
+| 3 | [3-peak-index-in-a-mountain-array.java](3-peak-index-in-a-mountain-array.java) | Java | Accepted | 0 ms (beats 100.0%) | 57 MB (beats 100.0%) | 2024-12-12 |
 
 <sub>Synced by LeetSync</sub>
