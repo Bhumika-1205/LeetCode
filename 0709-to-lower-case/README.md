@@ -43,5 +43,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [to-lower-case.java](to-lower-case.java) | Java | Accepted | 2 ms (beats 12.5%) | 42.5 MB (beats 97.7%) | 2024-12-16 |
+| 2 | [2-to-lower-case.java](2-to-lower-case.java) | Java | Accepted | 0 ms (beats 100.0%) | 41.8 MB (beats 100.0%) | 2024-12-16 |
 
 <sub>Synced by LeetSync</sub>
