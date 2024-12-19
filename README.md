@@ -7,7 +7,7 @@ Synced automatically by LeetSync.
 
 | Solved | Easy | Medium | Hard | Solutions saved |
 |:-:|:-:|:-:|:-:|:-:|
-| **42** | 37 | 4 | 1 | 56 |
+| **49** | 42 | 5 | 2 | 66 |
 
 | # | Problem | Difficulty | Solutions | Languages |
 |--:|---------|------------|:-:|-----------|
@@ -40,19 +40,26 @@ Synced automatically by LeetSync.
 | 344 | [Reverse String](0344-reverse-string/) | Easy | 1 | Java |
 | 367 | [Valid Perfect Square](0367-valid-perfect-square/) | Easy | 1 | Java |
 | 387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/) | Easy | 1 | Java |
+| 410 | [Split Array Largest Sum](0410-split-array-largest-sum/) | Hard | 1 | Java |
 | 412 | [Fizz Buzz](0412-fizz-buzz/) | Easy | 1 | Java |
 | 414 | [Third Maximum Number](0414-third-maximum-number/) | Easy | 1 | Java |
 | 492 | [Construct the Rectangle](0492-construct-the-rectangle/) | Easy | 1 | Java |
 | 504 | [Base 7](0504-base-7/) | Easy | 1 | Java |
 | 507 | [Perfect Number](0507-perfect-number/) | Easy | 1 | Java |
 | 509 | [Fibonacci Number](0509-fibonacci-number/) | Easy | 1 | Java |
+| 704 | [Binary Search](0704-binary-search/) | Easy | 1 | Java |
+| 709 | [To Lower Case](0709-to-lower-case/) | Easy | 2 | Java |
 | 728 | [Self Dividing Numbers](0728-self-dividing-numbers/) | Easy | 1 | Java |
 | 744 | [Find Smallest Letter Greater Than Target](0744-find-smallest-letter-greater-than-target/) | Easy | 1 | Java |
+| 852 | [Peak Index in a Mountain Array](0852-peak-index-in-a-mountain-array/) | Medium | 3 | Java |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | 1 | C++ |
 | 1295 | [Find Numbers with Even Number of Digits](1295-find-numbers-with-even-number-of-digits/) | Easy | 1 | Java |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/) | Easy | 1 | Java |
+| 1920 | [Build Array from Permutation](1920-build-array-from-permutation/) | Easy | 1 | Java |
+| 1929 | [Concatenation of Array](1929-concatenation-of-array/) | Easy | 1 | Java |
 | 2733 | [Neither Minimum nor Maximum](2733-neither-minimum-nor-maximum/) | Easy | 2 | Java |
 | 3232 | [Find if Digit Game Can Be Won](3232-find-if-digit-game-can-be-won/) | Easy | 2 | Java |
+| 3264 | [Final Array State After K Multiplication Operations I](3264-final-array-state-after-k-multiplication-operations-i/) | Easy | 1 | Java |
 
 <sub>Updated automatically by LeetSync.</sub>
 <!-- LEETSYNC:END -->
