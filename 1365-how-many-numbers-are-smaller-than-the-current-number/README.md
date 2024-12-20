@@ -51,5 +51,6 @@ For nums[4]=3 there exist three smaller numbers than it (1, 2 and 2).
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [how-many-numbers-are-smaller-than-the-current-number.java](how-many-numbers-are-smaller-than-the-current-number.java) | Java | Accepted | 11 ms (beats 5.4%) | 44.2 MB (beats 99.9%) | 2024-12-20 |
+| 2 | [2-how-many-numbers-are-smaller-than-the-current-number.java](2-how-many-numbers-are-smaller-than-the-current-number.java) | Java | Accepted | 7 ms (beats 84.7%) | 44.4 MB (beats 99.9%) | 2024-12-20 |
 
 <sub>Synced by LeetSync</sub>
