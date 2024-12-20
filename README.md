@@ -7,7 +7,7 @@ Synced automatically by LeetSync.
 
 | Solved | Easy | Medium | Hard | Solutions saved |
 |:-:|:-:|:-:|:-:|:-:|
-| **49** | 42 | 5 | 2 | 66 |
+| **56** | 49 | 5 | 2 | 74 |
 
 | # | Problem | Difficulty | Solutions | Languages |
 |--:|---------|------------|:-:|-----------|
@@ -54,7 +54,14 @@ Synced automatically by LeetSync.
 | 852 | [Peak Index in a Mountain Array](0852-peak-index-in-a-mountain-array/) | Medium | 3 | Java |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | 1 | C++ |
 | 1295 | [Find Numbers with Even Number of Digits](1295-find-numbers-with-even-number-of-digits/) | Easy | 1 | Java |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy | 2 | Java |
+| 1431 | [Kids With the Greatest Number of Candies](1431-kids-with-the-greatest-number-of-candies/) | Easy | 1 | Java |
+| 1470 | [Shuffle the Array](1470-shuffle-the-array/) | Easy | 1 | Java |
+| 1480 | [Running Sum of 1d Array](1480-running-sum-of-1d-array/) | Easy | 1 | Java |
+| 1512 | [Number of Good Pairs](1512-number-of-good-pairs/) | Easy | 1 | Java |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/) | Easy | 1 | Java |
+| 1732 | [Find the Highest Altitude](1732-find-the-highest-altitude/) | Easy | 1 | Java |
+| 1832 | [Check if the Sentence Is Pangram](1832-check-if-the-sentence-is-pangram/) | Easy | 1 | Java |
 | 1920 | [Build Array from Permutation](1920-build-array-from-permutation/) | Easy | 1 | Java |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/) | Easy | 1 | Java |
 | 2733 | [Neither Minimum nor Maximum](2733-neither-minimum-nor-maximum/) | Easy | 2 | Java |
