@@ -82,5 +82,6 @@
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [missing-number.java](missing-number.java) | Java | Accepted | 6 ms (beats 18.2%) | 45 MB (beats 99.9%) | 2024-07-12 |
 | 2 | [2-missing-number.java](2-missing-number.java) | Java | Accepted | 0 ms (beats 100.0%) | 45.2 MB (beats 99.9%) | 2024-07-12 |
+| 3 | [3-missing-number.java](3-missing-number.java) | Java | Accepted | 1 ms (beats 28.1%) | 46 MB (beats 99.9%) | 2024-12-23 |
 
 <sub>Synced by LeetSync</sub>
