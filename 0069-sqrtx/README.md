@@ -43,5 +43,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [sqrtx.java](sqrtx.java) | Java | Accepted | 0 ms (beats 100.0%) | 40.8 MB (beats 100.0%) | 2024-12-06 |
+| 2 | [2-sqrtx.java](2-sqrtx.java) | Java | Accepted | 1 ms (beats 100.0%) | 41.3 MB (beats 99.9%) | 2024-12-24 |
 
 <sub>Synced by LeetSync</sub>
