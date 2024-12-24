@@ -7,7 +7,7 @@ Synced automatically by LeetSync.
 
 | Solved | Easy | Medium | Hard | Solutions saved |
 |:-:|:-:|:-:|:-:|:-:|
-| **56** | 49 | 5 | 2 | 74 |
+| **64** | 54 | 8 | 2 | 84 |
 
 | # | Problem | Difficulty | Solutions | Languages |
 |--:|---------|------------|:-:|-----------|
@@ -20,10 +20,12 @@ Synced automatically by LeetSync.
 | 28 | [Find the Index of the First Occurrence in a String](0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy | 1 | Java |
 | 34 | [Find First and Last Position of Element in Sorted Array](0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium | 2 | Java |
 | 35 | [Search Insert Position](0035-search-insert-position/) | Easy | 1 | Java |
+| 54 | [Spiral Matrix](0054-spiral-matrix/) | Medium | 1 | Java |
 | 58 | [Length of Last Word](0058-length-of-last-word/) | Easy | 1 | Java |
 | 66 | [Plus One](0066-plus-one/) | Easy | 1 | Java |
 | 67 | [Add Binary](0067-add-binary/) | Easy | 1 | Java |
 | 69 | [Sqrt(x)](0069-sqrtx/) | Easy | 1 | Java |
+| 75 | [Sort Colors](0075-sort-colors/) | Medium | 1 | Java |
 | 125 | [Valid Palindrome](0125-valid-palindrome/) | Easy | 1 | Java |
 | 189 | [Rotate Array](0189-rotate-array/) | Medium | 3 | Java |
 | 202 | [Happy Number](0202-happy-number/) | Easy | 1 | Java |
@@ -31,7 +33,7 @@ Synced automatically by LeetSync.
 | 217 | [Contains Duplicate](0217-contains-duplicate/) | Easy | 1 | Java |
 | 231 | [Power of Two](0231-power-of-two/) | Easy | 5 | Java |
 | 258 | [Add Digits](0258-add-digits/) | Easy | 4 | Java |
-| 268 | [Missing Number](0268-missing-number/) | Easy | 2 | Java |
+| 268 | [Missing Number](0268-missing-number/) | Easy | 4 | Java |
 | 283 | [Move Zeroes](0283-move-zeroes/) | Easy | 1 | Java |
 | 287 | [Find the Duplicate Number](0287-find-the-duplicate-number/) | Medium | 1 | Java |
 | 292 | [Nim Game](0292-nim-game/) | Easy | 2 | Java |
@@ -43,15 +45,20 @@ Synced automatically by LeetSync.
 | 410 | [Split Array Largest Sum](0410-split-array-largest-sum/) | Hard | 1 | Java |
 | 412 | [Fizz Buzz](0412-fizz-buzz/) | Easy | 1 | Java |
 | 414 | [Third Maximum Number](0414-third-maximum-number/) | Easy | 1 | Java |
+| 442 | [Find All Duplicates in an Array](0442-find-all-duplicates-in-an-array/) | Medium | 1 | Java |
+| 448 | [Find All Numbers Disappeared in an Array](0448-find-all-numbers-disappeared-in-an-array/) | Easy | 1 | Java |
 | 492 | [Construct the Rectangle](0492-construct-the-rectangle/) | Easy | 1 | Java |
 | 504 | [Base 7](0504-base-7/) | Easy | 1 | Java |
 | 507 | [Perfect Number](0507-perfect-number/) | Easy | 1 | Java |
 | 509 | [Fibonacci Number](0509-fibonacci-number/) | Easy | 1 | Java |
+| 645 | [Set Mismatch](0645-set-mismatch/) | Easy | 1 | Java |
 | 704 | [Binary Search](0704-binary-search/) | Easy | 1 | Java |
 | 709 | [To Lower Case](0709-to-lower-case/) | Easy | 2 | Java |
 | 728 | [Self Dividing Numbers](0728-self-dividing-numbers/) | Easy | 1 | Java |
 | 744 | [Find Smallest Letter Greater Than Target](0744-find-smallest-letter-greater-than-target/) | Easy | 1 | Java |
+| 832 | [Flipping an Image](0832-flipping-an-image/) | Easy | 1 | Java |
 | 852 | [Peak Index in a Mountain Array](0852-peak-index-in-a-mountain-array/) | Medium | 3 | Java |
+| 867 | [Transpose Matrix](0867-transpose-matrix/) | Easy | 1 | Java |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | 1 | C++ |
 | 1295 | [Find Numbers with Even Number of Digits](1295-find-numbers-with-even-number-of-digits/) | Easy | 1 | Java |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy | 2 | Java |
@@ -59,6 +66,7 @@ Synced automatically by LeetSync.
 | 1470 | [Shuffle the Array](1470-shuffle-the-array/) | Easy | 1 | Java |
 | 1480 | [Running Sum of 1d Array](1480-running-sum-of-1d-array/) | Easy | 1 | Java |
 | 1512 | [Number of Good Pairs](1512-number-of-good-pairs/) | Easy | 1 | Java |
+| 1572 | [Matrix Diagonal Sum](1572-matrix-diagonal-sum/) | Easy | 1 | Java |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/) | Easy | 1 | Java |
 | 1732 | [Find the Highest Altitude](1732-find-the-highest-altitude/) | Easy | 1 | Java |
 | 1832 | [Check if the Sentence Is Pangram](1832-check-if-the-sentence-is-pangram/) | Easy | 1 | Java |
