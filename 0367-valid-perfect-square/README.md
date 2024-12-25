@@ -41,5 +41,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [valid-perfect-square.java](valid-perfect-square.java) | Java | Accepted | 0 ms (beats 100.0%) | 40.7 MB (beats 100.0%) | 2024-12-07 |
+| 2 | [2-valid-perfect-square.java](2-valid-perfect-square.java) | Java | Accepted | 0 ms (beats 100.0%) | 40.3 MB (beats 100.0%) | 2024-12-25 |
 
 <sub>Synced by LeetSync</sub>
