@@ -44,5 +44,6 @@
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [shuffle-string.java](shuffle-string.java) | Java | Accepted | 1 ms (beats 61.1%) | 44.6 MB (beats 99.9%) | 2024-12-26 |
 | 2 | [2-shuffle-string.java](2-shuffle-string.java) | Java | Accepted | 1 ms (beats 61.1%) | 44.6 MB (beats 99.9%) | 2024-12-26 |
+| 3 | [3-shuffle-string.java](3-shuffle-string.java) | Java | Accepted | 0 ms (beats 100.0%) | 44.7 MB (beats 99.7%) | 2024-12-26 |
 
 <sub>Synced by LeetSync</sub>
