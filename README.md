@@ -7,7 +7,7 @@ Synced automatically by LeetSync.
 
 | Solved | Easy | Medium | Hard | Solutions saved |
 |:-:|:-:|:-:|:-:|:-:|
-| **64** | 54 | 8 | 2 | 84 |
+| **69** | 56 | 10 | 3 | 93 |
 
 | # | Problem | Difficulty | Solutions | Languages |
 |--:|---------|------------|:-:|-----------|
@@ -20,18 +20,21 @@ Synced automatically by LeetSync.
 | 28 | [Find the Index of the First Occurrence in a String](0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy | 1 | Java |
 | 34 | [Find First and Last Position of Element in Sorted Array](0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium | 2 | Java |
 | 35 | [Search Insert Position](0035-search-insert-position/) | Easy | 1 | Java |
+| 41 | [First Missing Positive](0041-first-missing-positive/) | Hard | 1 | Java |
 | 54 | [Spiral Matrix](0054-spiral-matrix/) | Medium | 1 | Java |
 | 58 | [Length of Last Word](0058-length-of-last-word/) | Easy | 1 | Java |
 | 66 | [Plus One](0066-plus-one/) | Easy | 1 | Java |
 | 67 | [Add Binary](0067-add-binary/) | Easy | 1 | Java |
-| 69 | [Sqrt(x)](0069-sqrtx/) | Easy | 1 | Java |
+| 69 | [Sqrt(x)](0069-sqrtx/) | Easy | 2 | Java |
 | 75 | [Sort Colors](0075-sort-colors/) | Medium | 1 | Java |
 | 125 | [Valid Palindrome](0125-valid-palindrome/) | Easy | 1 | Java |
+| 167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/) | Medium | 1 | Java |
 | 189 | [Rotate Array](0189-rotate-array/) | Medium | 3 | Java |
 | 202 | [Happy Number](0202-happy-number/) | Easy | 1 | Java |
 | 215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/) | Medium | 1 | Java |
 | 217 | [Contains Duplicate](0217-contains-duplicate/) | Easy | 1 | Java |
 | 231 | [Power of Two](0231-power-of-two/) | Easy | 5 | Java |
+| 238 | [Product of Array Except Self](0238-product-of-array-except-self/) | Medium | 1 | Java |
 | 258 | [Add Digits](0258-add-digits/) | Easy | 4 | Java |
 | 268 | [Missing Number](0268-missing-number/) | Easy | 4 | Java |
 | 283 | [Move Zeroes](0283-move-zeroes/) | Easy | 1 | Java |
@@ -40,7 +43,7 @@ Synced automatically by LeetSync.
 | 326 | [Power of Three](0326-power-of-three/) | Easy | 1 | Java |
 | 342 | [Power of Four](0342-power-of-four/) | Easy | 1 | Java |
 | 344 | [Reverse String](0344-reverse-string/) | Easy | 1 | Java |
-| 367 | [Valid Perfect Square](0367-valid-perfect-square/) | Easy | 1 | Java |
+| 367 | [Valid Perfect Square](0367-valid-perfect-square/) | Easy | 2 | Java |
 | 387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/) | Easy | 1 | Java |
 | 410 | [Split Array Largest Sum](0410-split-array-largest-sum/) | Hard | 1 | Java |
 | 412 | [Fizz Buzz](0412-fizz-buzz/) | Easy | 1 | Java |
@@ -59,6 +62,7 @@ Synced automatically by LeetSync.
 | 832 | [Flipping an Image](0832-flipping-an-image/) | Easy | 1 | Java |
 | 852 | [Peak Index in a Mountain Array](0852-peak-index-in-a-mountain-array/) | Medium | 3 | Java |
 | 867 | [Transpose Matrix](0867-transpose-matrix/) | Easy | 1 | Java |
+| 1108 | [Defanging an IP Address](1108-defanging-an-ip-address/) | Easy | 2 | Java |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | 1 | C++ |
 | 1295 | [Find Numbers with Even Number of Digits](1295-find-numbers-with-even-number-of-digits/) | Easy | 1 | Java |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy | 2 | Java |
@@ -66,6 +70,7 @@ Synced automatically by LeetSync.
 | 1470 | [Shuffle the Array](1470-shuffle-the-array/) | Easy | 1 | Java |
 | 1480 | [Running Sum of 1d Array](1480-running-sum-of-1d-array/) | Easy | 1 | Java |
 | 1512 | [Number of Good Pairs](1512-number-of-good-pairs/) | Easy | 1 | Java |
+| 1528 | [Shuffle String](1528-shuffle-string/) | Easy | 2 | Java |
 | 1572 | [Matrix Diagonal Sum](1572-matrix-diagonal-sum/) | Easy | 1 | Java |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/) | Easy | 1 | Java |
 | 1732 | [Find the Highest Altitude](1732-find-the-highest-altitude/) | Easy | 1 | Java |

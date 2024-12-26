@@ -43,5 +43,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [shuffle-string.java](shuffle-string.java) | Java | Accepted | 1 ms (beats 61.1%) | 44.6 MB (beats 99.9%) | 2024-12-26 |
+| 2 | [2-shuffle-string.java](2-shuffle-string.java) | Java | Accepted | 1 ms (beats 61.1%) | 44.6 MB (beats 99.9%) | 2024-12-26 |
 
 <sub>Synced by LeetSync</sub>
