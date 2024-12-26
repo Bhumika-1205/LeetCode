@@ -30,5 +30,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [defanging-an-ip-address.java](defanging-an-ip-address.java) | Java | Accepted | 5 ms (beats 0.1%) | 42 MB (beats 99.8%) | 2024-12-26 |
+| 2 | [2-defanging-an-ip-address.java](2-defanging-an-ip-address.java) | Java | Accepted | 0 ms (beats 100.0%) | 41.6 MB (beats 100.0%) | 2024-12-26 |
 
 <sub>Synced by LeetSync</sub>
