@@ -50,5 +50,6 @@ The final concatenated result is &quot;Goal&quot;.
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [goal-parser-interpretation.java](goal-parser-interpretation.java) | Java | Accepted | 1 ms (beats 74.5%) | 41.8 MB (beats 99.9%) | 2024-12-26 |
+| 2 | [2-goal-parser-interpretation.java](2-goal-parser-interpretation.java) | Java | Accepted | 0 ms (beats 100.0%) | 41.8 MB (beats 99.9%) | 2024-12-26 |
 
 <sub>Synced by LeetSync</sub>
