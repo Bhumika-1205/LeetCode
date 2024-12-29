@@ -44,5 +44,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [reverse-integer.java](reverse-integer.java) | Java | Accepted | 1 ms (beats 100.0%) | 40.9 MB (beats 100.0%) | 2024-12-29 |
+| 2 | [2-reverse-integer.java](2-reverse-integer.java) | Java | Accepted | 1 ms (beats 100.0%) | 41 MB (beats 100.0%) | 2024-12-29 |
 
 <sub>Synced by LeetSync</sub>
