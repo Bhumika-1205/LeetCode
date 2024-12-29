@@ -7,25 +7,29 @@ Synced automatically by LeetSync.
 
 | Solved | Easy | Medium | Hard | Solutions saved |
 |:-:|:-:|:-:|:-:|:-:|
-| **69** | 56 | 10 | 3 | 93 |
+| **75** | 58 | 14 | 3 | 103 |
 
 | # | Problem | Difficulty | Solutions | Languages |
 |--:|---------|------------|:-:|-----------|
 | 1 | [Two Sum](0001-two-sum/) | Easy | 1 | Java |
 | 4 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/) | Hard | 1 | Java |
+| 7 | [Reverse Integer](0007-reverse-integer/) | Medium | 3 | Java |
 | 9 | [Palindrome Number](0009-palindrome-number/) | Easy | 1 | Java |
 | 14 | [Longest Common Prefix](0014-longest-common-prefix/) | Easy | 1 | Java |
 | 26 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/) | Easy | 1 | Java |
 | 27 | [Remove Element](0027-remove-element/) | Easy | 1 | Java |
 | 28 | [Find the Index of the First Occurrence in a String](0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy | 1 | Java |
+| 33 | [Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array/) | Medium | 1 | Java |
 | 34 | [Find First and Last Position of Element in Sorted Array](0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium | 2 | Java |
 | 35 | [Search Insert Position](0035-search-insert-position/) | Easy | 1 | Java |
 | 41 | [First Missing Positive](0041-first-missing-positive/) | Hard | 1 | Java |
 | 54 | [Spiral Matrix](0054-spiral-matrix/) | Medium | 1 | Java |
 | 58 | [Length of Last Word](0058-length-of-last-word/) | Easy | 1 | Java |
+| 59 | [Spiral Matrix II](0059-spiral-matrix-ii/) | Medium | 1 | Java |
 | 66 | [Plus One](0066-plus-one/) | Easy | 1 | Java |
 | 67 | [Add Binary](0067-add-binary/) | Easy | 1 | Java |
 | 69 | [Sqrt(x)](0069-sqrtx/) | Easy | 2 | Java |
+| 74 | [Search a 2D Matrix](0074-search-a-2d-matrix/) | Medium | 1 | Java |
 | 75 | [Sort Colors](0075-sort-colors/) | Medium | 1 | Java |
 | 125 | [Valid Palindrome](0125-valid-palindrome/) | Easy | 1 | Java |
 | 167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/) | Medium | 1 | Java |
@@ -70,13 +74,15 @@ Synced automatically by LeetSync.
 | 1470 | [Shuffle the Array](1470-shuffle-the-array/) | Easy | 1 | Java |
 | 1480 | [Running Sum of 1d Array](1480-running-sum-of-1d-array/) | Easy | 1 | Java |
 | 1512 | [Number of Good Pairs](1512-number-of-good-pairs/) | Easy | 1 | Java |
-| 1528 | [Shuffle String](1528-shuffle-string/) | Easy | 2 | Java |
+| 1528 | [Shuffle String](1528-shuffle-string/) | Easy | 3 | Java |
 | 1572 | [Matrix Diagonal Sum](1572-matrix-diagonal-sum/) | Easy | 1 | Java |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/) | Easy | 1 | Java |
+| 1678 | [Goal Parser Interpretation](1678-goal-parser-interpretation/) | Easy | 2 | Java |
 | 1732 | [Find the Highest Altitude](1732-find-the-highest-altitude/) | Easy | 1 | Java |
 | 1832 | [Check if the Sentence Is Pangram](1832-check-if-the-sentence-is-pangram/) | Easy | 1 | Java |
 | 1920 | [Build Array from Permutation](1920-build-array-from-permutation/) | Easy | 1 | Java |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/) | Easy | 1 | Java |
+| 2455 | [Average Value of Even Numbers That Are Divisible by Three](2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy | 1 | Java |
 | 2733 | [Neither Minimum nor Maximum](2733-neither-minimum-nor-maximum/) | Easy | 2 | Java |
 | 3232 | [Find if Digit Game Can Be Won](3232-find-if-digit-game-can-be-won/) | Easy | 2 | Java |
 | 3264 | [Final Array State After K Multiplication Operations I](3264-final-array-state-after-k-multiplication-operations-i/) | Easy | 1 | Java |
