@@ -56,5 +56,6 @@
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [reverse-words-in-a-string.java](reverse-words-in-a-string.java) | Java | Accepted | 7 ms (beats 63.6%) | 43.9 MB (beats 94.1%) | 2024-12-29 |
 | 2 | [2-reverse-words-in-a-string.java](2-reverse-words-in-a-string.java) | Java | Accepted | 7 ms (beats 63.6%) | 43.2 MB (beats 99.9%) | 2024-12-29 |
+| 3 | [3-reverse-words-in-a-string.java](3-reverse-words-in-a-string.java) | Java | Accepted | 6 ms (beats 81.2%) | 43.3 MB (beats 99.7%) | 2024-12-29 |
 
 <sub>Synced by LeetSync</sub>
