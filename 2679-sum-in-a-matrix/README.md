@@ -44,5 +44,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [sum-in-a-matrix.java](sum-in-a-matrix.java) | Java | Accepted | 218 ms (beats 5.0%) | 70.2 MB (beats 99.5%) | 2025-01-02 |
+| 2 | [2-sum-in-a-matrix.java](2-sum-in-a-matrix.java) | Java | Accepted | 13 ms (beats 99.7%) | 70.4 MB (beats 99.5%) | 2025-01-02 |
 
 <sub>Synced by LeetSync</sub>
