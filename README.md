@@ -7,13 +7,14 @@ Synced automatically by LeetSync.
 
 | Solved | Easy | Medium | Hard | Solutions saved |
 |:-:|:-:|:-:|:-:|:-:|
-| **75** | 58 | 14 | 3 | 103 |
+| **83** | 59 | 20 | 4 | 113 |
 
 | # | Problem | Difficulty | Solutions | Languages |
 |--:|---------|------------|:-:|-----------|
 | 1 | [Two Sum](0001-two-sum/) | Easy | 1 | Java |
 | 4 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/) | Hard | 1 | Java |
 | 7 | [Reverse Integer](0007-reverse-integer/) | Medium | 3 | Java |
+| 8 | [String to Integer (atoi)](0008-string-to-integer-atoi/) | Medium | 1 | Java |
 | 9 | [Palindrome Number](0009-palindrome-number/) | Easy | 1 | Java |
 | 14 | [Longest Common Prefix](0014-longest-common-prefix/) | Easy | 1 | Java |
 | 26 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/) | Easy | 1 | Java |
@@ -31,7 +32,12 @@ Synced automatically by LeetSync.
 | 69 | [Sqrt(x)](0069-sqrtx/) | Easy | 2 | Java |
 | 74 | [Search a 2D Matrix](0074-search-a-2d-matrix/) | Medium | 1 | Java |
 | 75 | [Sort Colors](0075-sort-colors/) | Medium | 1 | Java |
+| 81 | [Search in Rotated Sorted Array II](0081-search-in-rotated-sorted-array-ii/) | Medium | 1 | Java |
 | 125 | [Valid Palindrome](0125-valid-palindrome/) | Easy | 1 | Java |
+| 151 | [Reverse Words in a String](0151-reverse-words-in-a-string/) | Medium | 3 | Java |
+| 153 | [Find Minimum in Rotated Sorted Array](0153-find-minimum-in-rotated-sorted-array/) | Medium | 1 | Java |
+| 154 | [Find Minimum in Rotated Sorted Array II](0154-find-minimum-in-rotated-sorted-array-ii/) | Hard | 1 | Java |
+| 162 | [Find Peak Element](0162-find-peak-element/) | Medium | 1 | Java |
 | 167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/) | Medium | 1 | Java |
 | 189 | [Rotate Array](0189-rotate-array/) | Medium | 3 | Java |
 | 202 | [Happy Number](0202-happy-number/) | Easy | 1 | Java |
@@ -39,6 +45,8 @@ Synced automatically by LeetSync.
 | 217 | [Contains Duplicate](0217-contains-duplicate/) | Easy | 1 | Java |
 | 231 | [Power of Two](0231-power-of-two/) | Easy | 5 | Java |
 | 238 | [Product of Array Except Self](0238-product-of-array-except-self/) | Medium | 1 | Java |
+| 240 | [Search a 2D Matrix II](0240-search-a-2d-matrix-ii/) | Medium | 1 | Java |
+| 242 | [Valid Anagram](0242-valid-anagram/) | Easy | 1 | Java |
 | 258 | [Add Digits](0258-add-digits/) | Easy | 4 | Java |
 | 268 | [Missing Number](0268-missing-number/) | Easy | 4 | Java |
 | 283 | [Move Zeroes](0283-move-zeroes/) | Easy | 1 | Java |
