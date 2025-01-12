@@ -54,5 +54,6 @@ Then invert the image: [[1,1,0,0],[0,1,1,0],[0,0,0,1],[1,0,1,0]]
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [flipping-an-image.java](flipping-an-image.java) | Java | Accepted | 0 ms (beats 100.0%) | 44.9 MB (beats 99.8%) | 2024-12-20 |
+| 2 | [2-flipping-an-image.java](2-flipping-an-image.java) | Java | Accepted | 0 ms (beats 100.0%) | 44.8 MB (beats 99.9%) | 2025-01-12 |
 
 <sub>Synced by LeetSync</sub>
