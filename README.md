@@ -7,7 +7,7 @@ Synced automatically by LeetSync.
 
 | Solved | Easy | Medium | Hard | Solutions saved |
 |:-:|:-:|:-:|:-:|:-:|
-| **83** | 59 | 20 | 4 | 113 |
+| **90** | 62 | 24 | 4 | 123 |
 
 | # | Problem | Difficulty | Solutions | Languages |
 |--:|---------|------------|:-:|-----------|
@@ -34,11 +34,13 @@ Synced automatically by LeetSync.
 | 75 | [Sort Colors](0075-sort-colors/) | Medium | 1 | Java |
 | 81 | [Search in Rotated Sorted Array II](0081-search-in-rotated-sorted-array-ii/) | Medium | 1 | Java |
 | 125 | [Valid Palindrome](0125-valid-palindrome/) | Easy | 1 | Java |
+| 136 | [Single Number](0136-single-number/) | Easy | 2 | Java |
 | 151 | [Reverse Words in a String](0151-reverse-words-in-a-string/) | Medium | 3 | Java |
 | 153 | [Find Minimum in Rotated Sorted Array](0153-find-minimum-in-rotated-sorted-array/) | Medium | 1 | Java |
 | 154 | [Find Minimum in Rotated Sorted Array II](0154-find-minimum-in-rotated-sorted-array-ii/) | Hard | 1 | Java |
 | 162 | [Find Peak Element](0162-find-peak-element/) | Medium | 1 | Java |
 | 167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/) | Medium | 1 | Java |
+| 172 | [Factorial Trailing Zeroes](0172-factorial-trailing-zeroes/) | Medium | 1 | Java |
 | 189 | [Rotate Array](0189-rotate-array/) | Medium | 3 | Java |
 | 202 | [Happy Number](0202-happy-number/) | Easy | 1 | Java |
 | 215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/) | Medium | 1 | Java |
@@ -66,12 +68,14 @@ Synced automatically by LeetSync.
 | 504 | [Base 7](0504-base-7/) | Easy | 1 | Java |
 | 507 | [Perfect Number](0507-perfect-number/) | Easy | 1 | Java |
 | 509 | [Fibonacci Number](0509-fibonacci-number/) | Easy | 1 | Java |
+| 540 | [Single Element in a Sorted Array](0540-single-element-in-a-sorted-array/) | Medium | 1 | Java |
+| 633 | [Sum of Square Numbers](0633-sum-of-square-numbers/) | Medium | 1 | Java |
 | 645 | [Set Mismatch](0645-set-mismatch/) | Easy | 1 | Java |
 | 704 | [Binary Search](0704-binary-search/) | Easy | 1 | Java |
 | 709 | [To Lower Case](0709-to-lower-case/) | Easy | 2 | Java |
 | 728 | [Self Dividing Numbers](0728-self-dividing-numbers/) | Easy | 1 | Java |
 | 744 | [Find Smallest Letter Greater Than Target](0744-find-smallest-letter-greater-than-target/) | Easy | 1 | Java |
-| 832 | [Flipping an Image](0832-flipping-an-image/) | Easy | 1 | Java |
+| 832 | [Flipping an Image](0832-flipping-an-image/) | Easy | 2 | Java |
 | 852 | [Peak Index in a Mountain Array](0852-peak-index-in-a-mountain-array/) | Medium | 3 | Java |
 | 867 | [Transpose Matrix](0867-transpose-matrix/) | Easy | 1 | Java |
 | 1108 | [Defanging an IP Address](1108-defanging-an-ip-address/) | Easy | 2 | Java |
@@ -90,7 +94,10 @@ Synced automatically by LeetSync.
 | 1832 | [Check if the Sentence Is Pangram](1832-check-if-the-sentence-is-pangram/) | Easy | 1 | Java |
 | 1920 | [Build Array from Permutation](1920-build-array-from-permutation/) | Easy | 1 | Java |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/) | Easy | 1 | Java |
+| 2418 | [Sort the People](2418-sort-the-people/) | Easy | 1 | Java |
 | 2455 | [Average Value of Even Numbers That Are Divisible by Three](2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy | 1 | Java |
+| 2535 | [Difference Between Element Sum and Digit Sum of an Array](2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy | 1 | Java |
+| 2679 | [Sum in a Matrix](2679-sum-in-a-matrix/) | Medium | 2 | Java |
 | 2733 | [Neither Minimum nor Maximum](2733-neither-minimum-nor-maximum/) | Easy | 2 | Java |
 | 3232 | [Find if Digit Game Can Be Won](3232-find-if-digit-game-can-be-won/) | Easy | 2 | Java |
 | 3264 | [Final Array State After K Multiplication Operations I](3264-final-array-state-after-k-multiplication-operations-i/) | Easy | 1 | Java |
