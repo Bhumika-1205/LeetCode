@@ -32,5 +32,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [single-number-ii.java](single-number-ii.java) | Java | Accepted | 1 ms (beats 93.0%) | 46 MB (beats 29.1%) | 2025-01-18 |
+| 2 | [2-single-number-ii.java](2-single-number-ii.java) | Java | Accepted | 0 ms (beats 100.0%) | 45.2 MB (beats 74.7%) | 2025-01-18 |
 
 <sub>Synced by LeetSync</sub>
