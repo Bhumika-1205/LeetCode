@@ -48,5 +48,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [first-missing-positive.java](first-missing-positive.java) | Java | Accepted | 1 ms (beats 99.9%) | 57.7 MB (beats 100.0%) | 2024-12-24 |
+| 2 | [2-first-missing-positive.java](2-first-missing-positive.java) | Java | Accepted | 1 ms (beats 99.9%) | 57.2 MB (beats 100.0%) | 2025-06-10 |
 
 <sub>Synced by LeetSync</sub>
