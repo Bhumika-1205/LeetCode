@@ -49,5 +49,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [set-matrix-zeroes.java](set-matrix-zeroes.java) | Java | Accepted | 1 ms (beats 95.8%) | 45.5 MB (beats 100.0%) | 2025-06-25 |
+| 2 | [2-set-matrix-zeroes.java](2-set-matrix-zeroes.java) | Java | Accepted | 1 ms (beats 95.8%) | 45.3 MB (beats 100.0%) | 2025-06-25 |
 
 <sub>Synced by LeetSync</sub>
