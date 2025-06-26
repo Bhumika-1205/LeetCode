@@ -7,7 +7,7 @@ Synced automatically by LeetSync.
 
 | Solved | Easy | Medium | Hard | Solutions saved |
 |:-:|:-:|:-:|:-:|:-:|
-| **90** | 62 | 24 | 4 | 123 |
+| **96** | 65 | 27 | 4 | 133 |
 
 | # | Problem | Difficulty | Solutions | Languages |
 |--:|---------|------------|:-:|-----------|
@@ -23,18 +23,22 @@ Synced automatically by LeetSync.
 | 33 | [Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array/) | Medium | 1 | Java |
 | 34 | [Find First and Last Position of Element in Sorted Array](0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium | 2 | Java |
 | 35 | [Search Insert Position](0035-search-insert-position/) | Easy | 1 | Java |
-| 41 | [First Missing Positive](0041-first-missing-positive/) | Hard | 1 | Java |
+| 41 | [First Missing Positive](0041-first-missing-positive/) | Hard | 2 | Java |
+| 53 | [Maximum Subarray](0053-maximum-subarray/) | Medium | 1 | Java |
 | 54 | [Spiral Matrix](0054-spiral-matrix/) | Medium | 1 | Java |
 | 58 | [Length of Last Word](0058-length-of-last-word/) | Easy | 1 | Java |
 | 59 | [Spiral Matrix II](0059-spiral-matrix-ii/) | Medium | 1 | Java |
 | 66 | [Plus One](0066-plus-one/) | Easy | 1 | Java |
 | 67 | [Add Binary](0067-add-binary/) | Easy | 1 | Java |
 | 69 | [Sqrt(x)](0069-sqrtx/) | Easy | 2 | Java |
+| 73 | [Set Matrix Zeroes](0073-set-matrix-zeroes/) | Medium | 2 | Java |
 | 74 | [Search a 2D Matrix](0074-search-a-2d-matrix/) | Medium | 1 | Java |
-| 75 | [Sort Colors](0075-sort-colors/) | Medium | 1 | Java |
+| 75 | [Sort Colors](0075-sort-colors/) | Medium | 2 | Java |
 | 81 | [Search in Rotated Sorted Array II](0081-search-in-rotated-sorted-array-ii/) | Medium | 1 | Java |
+| 118 | [Pascal's Triangle](0118-pascals-triangle/) | Easy | 1 | Java |
 | 125 | [Valid Palindrome](0125-valid-palindrome/) | Easy | 1 | Java |
 | 136 | [Single Number](0136-single-number/) | Easy | 2 | Java |
+| 137 | [Single Number II](0137-single-number-ii/) | Medium | 2 | Java |
 | 151 | [Reverse Words in a String](0151-reverse-words-in-a-string/) | Medium | 3 | Java |
 | 153 | [Find Minimum in Rotated Sorted Array](0153-find-minimum-in-rotated-sorted-array/) | Medium | 1 | Java |
 | 154 | [Find Minimum in Rotated Sorted Array II](0154-find-minimum-in-rotated-sorted-array-ii/) | Hard | 1 | Java |
@@ -81,6 +85,7 @@ Synced automatically by LeetSync.
 | 1108 | [Defanging an IP Address](1108-defanging-an-ip-address/) | Easy | 2 | Java |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | 1 | C++ |
 | 1295 | [Find Numbers with Even Number of Digits](1295-find-numbers-with-even-number-of-digits/) | Easy | 1 | Java |
+| 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/) | Easy | 1 | Java |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy | 2 | Java |
 | 1431 | [Kids With the Greatest Number of Candies](1431-kids-with-the-greatest-number-of-candies/) | Easy | 1 | Java |
 | 1470 | [Shuffle the Array](1470-shuffle-the-array/) | Easy | 1 | Java |
@@ -96,6 +101,7 @@ Synced automatically by LeetSync.
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/) | Easy | 1 | Java |
 | 2418 | [Sort the People](2418-sort-the-people/) | Easy | 1 | Java |
 | 2455 | [Average Value of Even Numbers That Are Divisible by Three](2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy | 1 | Java |
+| 2529 | [Maximum Count of Positive Integer and Negative Integer](2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy | 1 | Java |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy | 1 | Java |
 | 2679 | [Sum in a Matrix](2679-sum-in-a-matrix/) | Medium | 2 | Java |
 | 2733 | [Neither Minimum nor Maximum](2733-neither-minimum-nor-maximum/) | Easy | 2 | Java |

@@ -54,5 +54,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [sort-colors.java](sort-colors.java) | Java | Accepted | 2 ms (beats 11.0%) | 41.9 MB (beats 100.0%) | 2024-12-20 |
+| 2 | [2-sort-colors.java](2-sort-colors.java) | Java | Accepted | 0 ms (beats 100.0%) | 42.6 MB (beats 99.8%) | 2025-06-26 |
 
 <sub>Synced by LeetSync</sub>
