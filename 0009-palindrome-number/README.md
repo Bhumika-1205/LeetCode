@@ -48,5 +48,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [palindrome-number.java](palindrome-number.java) | Java | Accepted | 5 ms (beats 84.8%) | 43.8 MB (beats 100.0%) | 2024-07-09 |
+| 2 | [2-palindrome-number.java](2-palindrome-number.java) | Java | Accepted | 4 ms (beats 100.0%) | 44.1 MB (beats 100.0%) | 2025-06-28 |
 
 <sub>Synced by LeetSync</sub>
