@@ -63,5 +63,6 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [remove-duplicates-from-sorted-array.java](remove-duplicates-from-sorted-array.java) | Java | Accepted | 1 ms (beats 78.3%) | 44.9 MB (beats 100.0%) | 2024-07-09 |
+| 2 | [2-remove-duplicates-from-sorted-array.java](2-remove-duplicates-from-sorted-array.java) | Java | Accepted | 0 ms (beats 100.0%) | 45 MB (beats 100.0%) | 2025-06-28 |
 
 <sub>Synced by LeetSync</sub>
