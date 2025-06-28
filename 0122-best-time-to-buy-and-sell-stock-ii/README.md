@@ -56,5 +56,6 @@ Total profit is 4.
 | 2 | [2-best-time-to-buy-and-sell-stock-ii.java](2-best-time-to-buy-and-sell-stock-ii.java) | Java | Accepted | 1 ms (beats 18.6%) | 45.6 MB (beats 99.6%) | 2025-06-28 |
 | 3 | [3-best-time-to-buy-and-sell-stock-ii.java](3-best-time-to-buy-and-sell-stock-ii.java) | Java | Accepted | 1 ms (beats 18.6%) | 45.8 MB (beats 99.2%) | 2025-06-28 |
 | 4 | [4-best-time-to-buy-and-sell-stock-ii.java](4-best-time-to-buy-and-sell-stock-ii.java) | Java | Accepted | 1 ms (beats 18.6%) | 46 MB (beats 95.8%) | 2025-06-28 |
+| 5 | [5-best-time-to-buy-and-sell-stock-ii.java](5-best-time-to-buy-and-sell-stock-ii.java) | Java | Accepted | 1 ms (beats 18.6%) | 45.7 MB (beats 99.6%) | 2025-06-28 |
 
 <sub>Synced by LeetSync</sub>
