@@ -7,7 +7,7 @@ Synced automatically by LeetSync.
 
 | Solved | Easy | Medium | Hard | Solutions saved |
 |:-:|:-:|:-:|:-:|:-:|
-| **96** | 65 | 27 | 4 | 133 |
+| **100** | 68 | 28 | 4 | 143 |
 
 | # | Problem | Difficulty | Solutions | Languages |
 |--:|---------|------------|:-:|-----------|
@@ -15,9 +15,9 @@ Synced automatically by LeetSync.
 | 4 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/) | Hard | 1 | Java |
 | 7 | [Reverse Integer](0007-reverse-integer/) | Medium | 3 | Java |
 | 8 | [String to Integer (atoi)](0008-string-to-integer-atoi/) | Medium | 1 | Java |
-| 9 | [Palindrome Number](0009-palindrome-number/) | Easy | 1 | Java |
+| 9 | [Palindrome Number](0009-palindrome-number/) | Easy | 2 | Java |
 | 14 | [Longest Common Prefix](0014-longest-common-prefix/) | Easy | 1 | Java |
-| 26 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/) | Easy | 1 | Java |
+| 26 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/) | Easy | 2 | Java |
 | 27 | [Remove Element](0027-remove-element/) | Easy | 1 | Java |
 | 28 | [Find the Index of the First Occurrence in a String](0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy | 1 | Java |
 | 33 | [Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array/) | Medium | 1 | Java |
@@ -36,6 +36,9 @@ Synced automatically by LeetSync.
 | 75 | [Sort Colors](0075-sort-colors/) | Medium | 2 | Java |
 | 81 | [Search in Rotated Sorted Array II](0081-search-in-rotated-sorted-array-ii/) | Medium | 1 | Java |
 | 118 | [Pascal's Triangle](0118-pascals-triangle/) | Easy | 1 | Java |
+| 119 | [Pascal's Triangle II](0119-pascals-triangle-ii/) | Easy | 1 | Java |
+| 121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/) | Easy | 1 | Java |
+| 122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/) | Medium | 4 | Java |
 | 125 | [Valid Palindrome](0125-valid-palindrome/) | Easy | 1 | Java |
 | 136 | [Single Number](0136-single-number/) | Easy | 2 | Java |
 | 137 | [Single Number II](0137-single-number-ii/) | Medium | 2 | Java |
@@ -79,7 +82,7 @@ Synced automatically by LeetSync.
 | 709 | [To Lower Case](0709-to-lower-case/) | Easy | 2 | Java |
 | 728 | [Self Dividing Numbers](0728-self-dividing-numbers/) | Easy | 1 | Java |
 | 744 | [Find Smallest Letter Greater Than Target](0744-find-smallest-letter-greater-than-target/) | Easy | 1 | Java |
-| 832 | [Flipping an Image](0832-flipping-an-image/) | Easy | 2 | Java |
+| 832 | [Flipping an Image](0832-flipping-an-image/) | Easy | 3 | Java |
 | 852 | [Peak Index in a Mountain Array](0852-peak-index-in-a-mountain-array/) | Medium | 3 | Java |
 | 867 | [Transpose Matrix](0867-transpose-matrix/) | Easy | 1 | Java |
 | 1108 | [Defanging an IP Address](1108-defanging-an-ip-address/) | Easy | 2 | Java |
@@ -97,6 +100,7 @@ Synced automatically by LeetSync.
 | 1678 | [Goal Parser Interpretation](1678-goal-parser-interpretation/) | Easy | 2 | Java |
 | 1732 | [Find the Highest Altitude](1732-find-the-highest-altitude/) | Easy | 1 | Java |
 | 1832 | [Check if the Sentence Is Pangram](1832-check-if-the-sentence-is-pangram/) | Easy | 1 | Java |
+| 1863 | [Sum of All Subset XOR Totals](1863-sum-of-all-subset-xor-totals/) | Easy | 1 | Java |
 | 1920 | [Build Array from Permutation](1920-build-array-from-permutation/) | Easy | 1 | Java |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/) | Easy | 1 | Java |
 | 2418 | [Sort the People](2418-sort-the-people/) | Easy | 1 | Java |
