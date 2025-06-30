@@ -54,5 +54,6 @@ So the total number of operations required is 1.
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [count-operations-to-obtain-zero.java](count-operations-to-obtain-zero.java) | Java | Accepted | 5 ms (beats 7.5%) | 46.2 MB (beats 6.8%) | 2025-06-30 |
 | 2 | [2-count-operations-to-obtain-zero.java](2-count-operations-to-obtain-zero.java) | Java | Accepted | 5 ms (beats 7.5%) | 45.7 MB (beats 6.9%) | 2025-06-30 |
+| 3 | [3-count-operations-to-obtain-zero.java](3-count-operations-to-obtain-zero.java) | Java | Accepted | 1 ms (beats 88.3%) | 40.8 MB (beats 100.0%) | 2025-06-30 |
 
 <sub>Synced by LeetSync</sub>
