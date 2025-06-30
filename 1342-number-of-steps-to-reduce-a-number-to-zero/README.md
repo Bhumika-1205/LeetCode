@@ -56,5 +56,6 @@ Step 4) 1 is odd; subtract 1 and obtain 0.
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [number-of-steps-to-reduce-a-number-to-zero.java](number-of-steps-to-reduce-a-number-to-zero.java) | Java | Accepted | 0 ms (beats 100.0%) | 40.5 MB (beats 100.0%) | 2025-06-30 |
+| 2 | [2-number-of-steps-to-reduce-a-number-to-zero.java](2-number-of-steps-to-reduce-a-number-to-zero.java) | Java | Accepted | 0 ms (beats 100.0%) | 41.1 MB (beats 100.0%) | 2025-06-30 |
 
 <sub>Synced by LeetSync</sub>
