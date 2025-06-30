@@ -43,5 +43,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [maximum-product-subarray.java](maximum-product-subarray.java) | Java | Accepted | 3 ms (beats 20.5%) | 44.8 MB (beats 100.0%) | 2025-06-30 |
+| 2 | [2-maximum-product-subarray.java](2-maximum-product-subarray.java) | Java | Accepted | 0 ms (beats 100.0%) | 45.3 MB (beats 100.0%) | 2025-06-30 |
 
 <sub>Synced by LeetSync</sub>
