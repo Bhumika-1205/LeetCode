@@ -7,7 +7,7 @@ Synced automatically by LeetSync.
 
 | Solved | Easy | Medium | Hard | Solutions saved |
 |:-:|:-:|:-:|:-:|:-:|
-| **100** | 68 | 28 | 4 | 143 |
+| **105** | 70 | 31 | 4 | 153 |
 
 | # | Problem | Difficulty | Solutions | Languages |
 |--:|---------|------------|:-:|-----------|
@@ -38,7 +38,7 @@ Synced automatically by LeetSync.
 | 118 | [Pascal's Triangle](0118-pascals-triangle/) | Easy | 1 | Java |
 | 119 | [Pascal's Triangle II](0119-pascals-triangle-ii/) | Easy | 1 | Java |
 | 121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/) | Easy | 1 | Java |
-| 122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/) | Medium | 4 | Java |
+| 122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/) | Medium | 5 | Java |
 | 125 | [Valid Palindrome](0125-valid-palindrome/) | Easy | 1 | Java |
 | 136 | [Single Number](0136-single-number/) | Easy | 2 | Java |
 | 137 | [Single Number II](0137-single-number-ii/) | Medium | 2 | Java |
@@ -46,10 +46,12 @@ Synced automatically by LeetSync.
 | 153 | [Find Minimum in Rotated Sorted Array](0153-find-minimum-in-rotated-sorted-array/) | Medium | 1 | Java |
 | 154 | [Find Minimum in Rotated Sorted Array II](0154-find-minimum-in-rotated-sorted-array-ii/) | Hard | 1 | Java |
 | 162 | [Find Peak Element](0162-find-peak-element/) | Medium | 1 | Java |
+| 164 | [Maximum Gap](0164-maximum-gap/) | Medium | 1 | Java |
 | 167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/) | Medium | 1 | Java |
 | 172 | [Factorial Trailing Zeroes](0172-factorial-trailing-zeroes/) | Medium | 1 | Java |
 | 189 | [Rotate Array](0189-rotate-array/) | Medium | 3 | Java |
 | 202 | [Happy Number](0202-happy-number/) | Easy | 1 | Java |
+| 204 | [Count Primes](0204-count-primes/) | Medium | 1 | Java |
 | 215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/) | Medium | 1 | Java |
 | 217 | [Contains Duplicate](0217-contains-duplicate/) | Easy | 1 | Java |
 | 231 | [Power of Two](0231-power-of-two/) | Easy | 5 | Java |
@@ -88,6 +90,7 @@ Synced automatically by LeetSync.
 | 1108 | [Defanging an IP Address](1108-defanging-an-ip-address/) | Easy | 2 | Java |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | 1 | C++ |
 | 1295 | [Find Numbers with Even Number of Digits](1295-find-numbers-with-even-number-of-digits/) | Easy | 1 | Java |
+| 1342 | [Number of Steps to Reduce a Number to Zero](1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy | 2 | Java |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/) | Easy | 1 | Java |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy | 2 | Java |
 | 1431 | [Kids With the Greatest Number of Candies](1431-kids-with-the-greatest-number-of-candies/) | Easy | 1 | Java |
@@ -103,6 +106,8 @@ Synced automatically by LeetSync.
 | 1863 | [Sum of All Subset XOR Totals](1863-sum-of-all-subset-xor-totals/) | Easy | 1 | Java |
 | 1920 | [Build Array from Permutation](1920-build-array-from-permutation/) | Easy | 1 | Java |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/) | Easy | 1 | Java |
+| 2139 | [Minimum Moves to Reach Target Score](2139-minimum-moves-to-reach-target-score/) | Medium | 2 | Java |
+| 2169 | [Count Operations to Obtain Zero](2169-count-operations-to-obtain-zero/) | Easy | 3 | Java |
 | 2418 | [Sort the People](2418-sort-the-people/) | Easy | 1 | Java |
 | 2455 | [Average Value of Even Numbers That Are Divisible by Three](2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy | 1 | Java |
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy | 1 | Java |

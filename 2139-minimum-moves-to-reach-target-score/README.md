@@ -66,5 +66,6 @@ Double again so x = 10
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [minimum-moves-to-reach-target-score.java](minimum-moves-to-reach-target-score.java) | Java | Accepted | 1537 ms (beats 5.1%) | 40.4 MB (beats 100.0%) | 2025-06-30 |
+| 2 | [2-minimum-moves-to-reach-target-score.java](2-minimum-moves-to-reach-target-score.java) | Java | Accepted | 0 ms (beats 100.0%) | 40.4 MB (beats 100.0%) | 2025-06-30 |
 
 <sub>Synced by LeetSync</sub>
