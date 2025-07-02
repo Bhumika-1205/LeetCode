@@ -7,15 +7,17 @@ Synced automatically by LeetSync.
 
 | Solved | Easy | Medium | Hard | Solutions saved |
 |:-:|:-:|:-:|:-:|:-:|
-| **105** | 70 | 31 | 4 | 153 |
+| **112** | 72 | 36 | 4 | 163 |
 
 | # | Problem | Difficulty | Solutions | Languages |
 |--:|---------|------------|:-:|-----------|
 | 1 | [Two Sum](0001-two-sum/) | Easy | 1 | Java |
+| 3 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/) | Medium | 1 | Java |
 | 4 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/) | Hard | 1 | Java |
 | 7 | [Reverse Integer](0007-reverse-integer/) | Medium | 3 | Java |
 | 8 | [String to Integer (atoi)](0008-string-to-integer-atoi/) | Medium | 1 | Java |
 | 9 | [Palindrome Number](0009-palindrome-number/) | Easy | 2 | Java |
+| 11 | [Container With Most Water](0011-container-with-most-water/) | Medium | 1 | Java |
 | 14 | [Longest Common Prefix](0014-longest-common-prefix/) | Easy | 1 | Java |
 | 26 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/) | Easy | 2 | Java |
 | 27 | [Remove Element](0027-remove-element/) | Easy | 1 | Java |
@@ -23,7 +25,7 @@ Synced automatically by LeetSync.
 | 33 | [Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array/) | Medium | 1 | Java |
 | 34 | [Find First and Last Position of Element in Sorted Array](0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium | 2 | Java |
 | 35 | [Search Insert Position](0035-search-insert-position/) | Easy | 1 | Java |
-| 41 | [First Missing Positive](0041-first-missing-positive/) | Hard | 2 | Java |
+| 41 | [First Missing Positive](0041-first-missing-positive/) | Hard | 3 | Java |
 | 53 | [Maximum Subarray](0053-maximum-subarray/) | Medium | 1 | Java |
 | 54 | [Spiral Matrix](0054-spiral-matrix/) | Medium | 1 | Java |
 | 58 | [Length of Last Word](0058-length-of-last-word/) | Easy | 1 | Java |
@@ -34,6 +36,7 @@ Synced automatically by LeetSync.
 | 73 | [Set Matrix Zeroes](0073-set-matrix-zeroes/) | Medium | 2 | Java |
 | 74 | [Search a 2D Matrix](0074-search-a-2d-matrix/) | Medium | 1 | Java |
 | 75 | [Sort Colors](0075-sort-colors/) | Medium | 2 | Java |
+| 80 | [Remove Duplicates from Sorted Array II](0080-remove-duplicates-from-sorted-array-ii/) | Medium | 1 | Java |
 | 81 | [Search in Rotated Sorted Array II](0081-search-in-rotated-sorted-array-ii/) | Medium | 1 | Java |
 | 118 | [Pascal's Triangle](0118-pascals-triangle/) | Easy | 1 | Java |
 | 119 | [Pascal's Triangle II](0119-pascals-triangle-ii/) | Easy | 1 | Java |
@@ -43,6 +46,7 @@ Synced automatically by LeetSync.
 | 136 | [Single Number](0136-single-number/) | Easy | 2 | Java |
 | 137 | [Single Number II](0137-single-number-ii/) | Medium | 2 | Java |
 | 151 | [Reverse Words in a String](0151-reverse-words-in-a-string/) | Medium | 3 | Java |
+| 152 | [Maximum Product Subarray](0152-maximum-product-subarray/) | Medium | 2 | Java |
 | 153 | [Find Minimum in Rotated Sorted Array](0153-find-minimum-in-rotated-sorted-array/) | Medium | 1 | Java |
 | 154 | [Find Minimum in Rotated Sorted Array II](0154-find-minimum-in-rotated-sorted-array-ii/) | Hard | 1 | Java |
 | 162 | [Find Peak Element](0162-find-peak-element/) | Medium | 1 | Java |
@@ -52,13 +56,16 @@ Synced automatically by LeetSync.
 | 189 | [Rotate Array](0189-rotate-array/) | Medium | 3 | Java |
 | 202 | [Happy Number](0202-happy-number/) | Easy | 1 | Java |
 | 204 | [Count Primes](0204-count-primes/) | Medium | 1 | Java |
+| 209 | [Minimum Size Subarray Sum](0209-minimum-size-subarray-sum/) | Medium | 1 | Java |
 | 215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/) | Medium | 1 | Java |
 | 217 | [Contains Duplicate](0217-contains-duplicate/) | Easy | 1 | Java |
+| 219 | [Contains Duplicate II](0219-contains-duplicate-ii/) | Easy | 1 | Java |
 | 231 | [Power of Two](0231-power-of-two/) | Easy | 5 | Java |
 | 238 | [Product of Array Except Self](0238-product-of-array-except-self/) | Medium | 1 | Java |
 | 240 | [Search a 2D Matrix II](0240-search-a-2d-matrix-ii/) | Medium | 1 | Java |
 | 242 | [Valid Anagram](0242-valid-anagram/) | Easy | 1 | Java |
 | 258 | [Add Digits](0258-add-digits/) | Easy | 4 | Java |
+| 263 | [Ugly Number](0263-ugly-number/) | Easy | 2 | Java |
 | 268 | [Missing Number](0268-missing-number/) | Easy | 4 | Java |
 | 283 | [Move Zeroes](0283-move-zeroes/) | Easy | 1 | Java |
 | 287 | [Find the Duplicate Number](0287-find-the-duplicate-number/) | Medium | 1 | Java |

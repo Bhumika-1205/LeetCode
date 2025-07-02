@@ -47,5 +47,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [ugly-number.java](ugly-number.java) | Java | Accepted | 1 ms (beats 99.1%) | 40.7 MB (beats 100.0%) | 2025-07-02 |
+| 2 | [2-ugly-number.java](2-ugly-number.java) | Java | Accepted | 1 ms (beats 99.1%) | 41.2 MB (beats 100.0%) | 2025-07-02 |
 
 <sub>Synced by LeetSync</sub>
