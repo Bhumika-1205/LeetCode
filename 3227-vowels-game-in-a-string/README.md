@@ -64,5 +64,6 @@ There is no valid play for Alice in her first turn, so Alice loses the game.</p>
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [vowels-game-in-a-string.java](vowels-game-in-a-string.java) | Java | Accepted | 7 ms (beats 46.3%) | 45.9 MB (beats 100.0%) | 2025-07-04 |
+| 2 | [2-vowels-game-in-a-string.java](2-vowels-game-in-a-string.java) | Java | Accepted | 2 ms (beats 100.0%) | 45.2 MB (beats 100.0%) | 2025-07-04 |
 
 <sub>Synced by LeetSync</sub>
