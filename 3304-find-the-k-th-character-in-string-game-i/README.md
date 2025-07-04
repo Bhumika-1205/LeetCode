@@ -59,5 +59,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [find-the-k-th-character-in-string-game-i.java](find-the-k-th-character-in-string-game-i.java) | Java | Accepted | 13 ms (beats 17.5%) | 45.2 MB (beats 19.7%) | 2025-07-04 |
+| 2 | [2-find-the-k-th-character-in-string-game-i.java](2-find-the-k-th-character-in-string-game-i.java) | Java | Accepted | 0 ms (beats 100.0%) | 42 MB (beats 99.9%) | 2025-07-04 |
 
 <sub>Synced by LeetSync</sub>
