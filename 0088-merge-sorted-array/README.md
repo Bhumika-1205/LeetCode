@@ -60,5 +60,6 @@ Note that because m = 0, there are no elements in nums1. The 0 is only there to 
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [merge-sorted-array.java](merge-sorted-array.java) | Java | Accepted | 1 ms (beats 24.5%) | 42.3 MB (beats 100.0%) | 2025-07-05 |
+| 2 | [2-merge-sorted-array.java](2-merge-sorted-array.java) | Java | Accepted | 0 ms (beats 100.0%) | 42.4 MB (beats 100.0%) | 2025-07-05 |
 
 <sub>Synced by LeetSync</sub>
