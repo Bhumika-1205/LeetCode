@@ -44,5 +44,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [median-of-two-sorted-arrays.java](median-of-two-sorted-arrays.java) | Java | Accepted | 6 ms (beats 24.6%) | 46 MB (beats 100.0%) | 2024-12-07 |
+| 2 | [2-median-of-two-sorted-arrays.java](2-median-of-two-sorted-arrays.java) | Java | Accepted | 2 ms (beats 44.2%) | 46.3 MB (beats 100.0%) | 2025-07-05 |
 
 <sub>Synced by LeetSync</sub>

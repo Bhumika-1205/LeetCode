@@ -7,13 +7,14 @@ Synced automatically by LeetSync.
 
 | Solved | Easy | Medium | Hard | Solutions saved |
 |:-:|:-:|:-:|:-:|:-:|
-| **112** | 72 | 36 | 4 | 163 |
+| **118** | 74 | 40 | 4 | 173 |
 
 | # | Problem | Difficulty | Solutions | Languages |
 |--:|---------|------------|:-:|-----------|
 | 1 | [Two Sum](0001-two-sum/) | Easy | 1 | Java |
 | 3 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/) | Medium | 1 | Java |
-| 4 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/) | Hard | 1 | Java |
+| 4 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/) | Hard | 2 | Java |
+| 5 | [Longest Palindromic Substring](0005-longest-palindromic-substring/) | Medium | 1 | Java |
 | 7 | [Reverse Integer](0007-reverse-integer/) | Medium | 3 | Java |
 | 8 | [String to Integer (atoi)](0008-string-to-integer-atoi/) | Medium | 1 | Java |
 | 9 | [Palindrome Number](0009-palindrome-number/) | Easy | 2 | Java |
@@ -28,6 +29,7 @@ Synced automatically by LeetSync.
 | 41 | [First Missing Positive](0041-first-missing-positive/) | Hard | 3 | Java |
 | 53 | [Maximum Subarray](0053-maximum-subarray/) | Medium | 1 | Java |
 | 54 | [Spiral Matrix](0054-spiral-matrix/) | Medium | 1 | Java |
+| 55 | [Jump Game](0055-jump-game/) | Medium | 1 | Java |
 | 58 | [Length of Last Word](0058-length-of-last-word/) | Easy | 1 | Java |
 | 59 | [Spiral Matrix II](0059-spiral-matrix-ii/) | Medium | 1 | Java |
 | 66 | [Plus One](0066-plus-one/) | Easy | 1 | Java |
@@ -38,6 +40,7 @@ Synced automatically by LeetSync.
 | 75 | [Sort Colors](0075-sort-colors/) | Medium | 2 | Java |
 | 80 | [Remove Duplicates from Sorted Array II](0080-remove-duplicates-from-sorted-array-ii/) | Medium | 1 | Java |
 | 81 | [Search in Rotated Sorted Array II](0081-search-in-rotated-sorted-array-ii/) | Medium | 1 | Java |
+| 88 | [Merge Sorted Array](0088-merge-sorted-array/) | Easy | 2 | Java |
 | 118 | [Pascal's Triangle](0118-pascals-triangle/) | Easy | 1 | Java |
 | 119 | [Pascal's Triangle II](0119-pascals-triangle-ii/) | Easy | 1 | Java |
 | 121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/) | Easy | 1 | Java |
@@ -73,6 +76,7 @@ Synced automatically by LeetSync.
 | 326 | [Power of Three](0326-power-of-three/) | Easy | 1 | Java |
 | 342 | [Power of Four](0342-power-of-four/) | Easy | 1 | Java |
 | 344 | [Reverse String](0344-reverse-string/) | Easy | 1 | Java |
+| 365 | [Water and Jug Problem](0365-water-and-jug-problem/) | Medium | 1 | Java |
 | 367 | [Valid Perfect Square](0367-valid-perfect-square/) | Easy | 2 | Java |
 | 387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/) | Easy | 1 | Java |
 | 410 | [Split Array Largest Sum](0410-split-array-largest-sum/) | Hard | 1 | Java |
@@ -121,8 +125,10 @@ Synced automatically by LeetSync.
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy | 1 | Java |
 | 2679 | [Sum in a Matrix](2679-sum-in-a-matrix/) | Medium | 2 | Java |
 | 2733 | [Neither Minimum nor Maximum](2733-neither-minimum-nor-maximum/) | Easy | 2 | Java |
+| 3227 | [Vowels Game in a String](3227-vowels-game-in-a-string/) | Medium | 2 | Java |
 | 3232 | [Find if Digit Game Can Be Won](3232-find-if-digit-game-can-be-won/) | Easy | 2 | Java |
 | 3264 | [Final Array State After K Multiplication Operations I](3264-final-array-state-after-k-multiplication-operations-i/) | Easy | 1 | Java |
+| 3304 | [Find the K-th Character in String Game I](3304-find-the-k-th-character-in-string-game-i/) | Easy | 2 | Java |
 
 <sub>Updated automatically by LeetSync.</sub>
 <!-- LEETSYNC:END -->
