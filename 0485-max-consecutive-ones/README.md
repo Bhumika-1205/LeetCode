@@ -37,5 +37,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [max-consecutive-ones.java](max-consecutive-ones.java) | Java | Accepted | 2 ms (beats 98.2%) | 50.5 MB (beats 99.9%) | 2025-07-08 |
+| 2 | [2-max-consecutive-ones.java](2-max-consecutive-ones.java) | Java | Accepted | 3 ms (beats 58.1%) | 50.4 MB (beats 99.9%) | 2025-07-08 |
 
 <sub>Synced by LeetSync</sub>
