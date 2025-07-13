@@ -36,5 +36,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [majority-element.java](majority-element.java) | Java | Accepted | 2 ms (beats 77.5%) | 53.3 MB (beats 84.9%) | 2025-07-13 |
+| 2 | [2-majority-element.java](2-majority-element.java) | Java | Accepted | 1 ms (beats 99.9%) | 53.7 MB (beats 84.9%) | 2025-07-13 |
 
 <sub>Synced by LeetSync</sub>
