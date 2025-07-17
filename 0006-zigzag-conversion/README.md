@@ -63,5 +63,6 @@ P     I
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [zigzag-conversion.java](zigzag-conversion.java) | Java | Accepted | 11 ms (beats 13.9%) | 45.7 MB (beats 99.6%) | 2025-07-17 |
+| 2 | [2-zigzag-conversion.java](2-zigzag-conversion.java) | Java | Accepted | 11 ms (beats 13.9%) | 45.7 MB (beats 99.4%) | 2025-07-17 |
 
 <sub>Synced by LeetSync</sub>
