@@ -47,5 +47,6 @@ Notice that the answer must be a substring, &quot;pwke&quot; is a subsequence an
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [longest-substring-without-repeating-characters.java](longest-substring-without-repeating-characters.java) | Java | Accepted | 12 ms (beats 89.3%) | 46.1 MB (beats 100.0%) | 2025-07-02 |
+| 2 | [2-longest-substring-without-repeating-characters.java](2-longest-substring-without-repeating-characters.java) | Java | Accepted | 9 ms (beats 91.9%) | 45.7 MB (beats 100.0%) | 2025-07-17 |
 
 <sub>Synced by LeetSync</sub>
