@@ -64,5 +64,6 @@ P     I
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [zigzag-conversion.java](zigzag-conversion.java) | Java | Accepted | 11 ms (beats 13.9%) | 45.7 MB (beats 99.6%) | 2025-07-17 |
 | 2 | [2-zigzag-conversion.java](2-zigzag-conversion.java) | Java | Accepted | 11 ms (beats 13.9%) | 45.7 MB (beats 99.4%) | 2025-07-17 |
+| 3 | [3-zigzag-conversion.java](3-zigzag-conversion.java) | Java | Accepted | 6 ms (beats 27.4%) | 45.4 MB (beats 99.9%) | 2025-07-17 |
 
 <sub>Synced by LeetSync</sub>
