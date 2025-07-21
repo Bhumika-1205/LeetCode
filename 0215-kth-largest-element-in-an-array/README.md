@@ -33,5 +33,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [kth-largest-element-in-an-array.java](kth-largest-element-in-an-array.java) | Java | Accepted | 22 ms (beats 94.3%) | 58 MB (beats 100.0%) | 2024-12-09 |
+| 2 | [2-kth-largest-element-in-an-array.java](2-kth-largest-element-in-an-array.java) | Java | Accepted | 25 ms (beats 94.2%) | 57.2 MB (beats 100.0%) | 2025-07-21 |
 
 <sub>Synced by LeetSync</sub>
