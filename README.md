@@ -7,22 +7,25 @@ Synced automatically by LeetSync.
 
 | Solved | Easy | Medium | Hard | Solutions saved |
 |:-:|:-:|:-:|:-:|:-:|
-| **125** | 78 | 43 | 4 | 183 |
+| **129** | 78 | 47 | 4 | 193 |
 
 | # | Problem | Difficulty | Solutions | Languages |
 |--:|---------|------------|:-:|-----------|
 | 1 | [Two Sum](0001-two-sum/) | Easy | 1 | Java |
-| 3 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/) | Medium | 1 | Java |
+| 3 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/) | Medium | 2 | Java |
 | 4 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/) | Hard | 2 | Java |
 | 5 | [Longest Palindromic Substring](0005-longest-palindromic-substring/) | Medium | 1 | Java |
+| 6 | [Zigzag Conversion](0006-zigzag-conversion/) | Medium | 3 | Java |
 | 7 | [Reverse Integer](0007-reverse-integer/) | Medium | 3 | Java |
 | 8 | [String to Integer (atoi)](0008-string-to-integer-atoi/) | Medium | 1 | Java |
 | 9 | [Palindrome Number](0009-palindrome-number/) | Easy | 2 | Java |
 | 11 | [Container With Most Water](0011-container-with-most-water/) | Medium | 1 | Java |
 | 14 | [Longest Common Prefix](0014-longest-common-prefix/) | Easy | 1 | Java |
+| 17 | [Letter Combinations of a Phone Number](0017-letter-combinations-of-a-phone-number/) | Medium | 1 | Java |
 | 26 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/) | Easy | 2 | Java |
 | 27 | [Remove Element](0027-remove-element/) | Easy | 1 | Java |
 | 28 | [Find the Index of the First Occurrence in a String](0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy | 1 | Java |
+| 31 | [Next Permutation](0031-next-permutation/) | Medium | 1 | Java |
 | 33 | [Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array/) | Medium | 1 | Java |
 | 34 | [Find First and Last Position of Element in Sorted Array](0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium | 2 | Java |
 | 35 | [Search Insert Position](0035-search-insert-position/) | Easy | 1 | Java |
@@ -57,15 +60,16 @@ Synced automatically by LeetSync.
 | 162 | [Find Peak Element](0162-find-peak-element/) | Medium | 1 | Java |
 | 164 | [Maximum Gap](0164-maximum-gap/) | Medium | 1 | Java |
 | 167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/) | Medium | 1 | Java |
-| 169 | [Majority Element](0169-majority-element/) | Easy | 1 | Java |
+| 169 | [Majority Element](0169-majority-element/) | Easy | 2 | Java |
 | 172 | [Factorial Trailing Zeroes](0172-factorial-trailing-zeroes/) | Medium | 1 | Java |
 | 189 | [Rotate Array](0189-rotate-array/) | Medium | 3 | Java |
 | 202 | [Happy Number](0202-happy-number/) | Easy | 1 | Java |
 | 204 | [Count Primes](0204-count-primes/) | Medium | 1 | Java |
 | 209 | [Minimum Size Subarray Sum](0209-minimum-size-subarray-sum/) | Medium | 1 | Java |
-| 215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/) | Medium | 1 | Java |
+| 215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/) | Medium | 2 | Java |
 | 217 | [Contains Duplicate](0217-contains-duplicate/) | Easy | 1 | Java |
 | 219 | [Contains Duplicate II](0219-contains-duplicate-ii/) | Easy | 1 | Java |
+| 229 | [Majority Element II](0229-majority-element-ii/) | Medium | 1 | Java |
 | 231 | [Power of Two](0231-power-of-two/) | Easy | 5 | Java |
 | 238 | [Product of Array Except Self](0238-product-of-array-except-self/) | Medium | 1 | Java |
 | 240 | [Search a 2D Matrix II](0240-search-a-2d-matrix-ii/) | Medium | 1 | Java |
@@ -100,7 +104,7 @@ Synced automatically by LeetSync.
 | 728 | [Self Dividing Numbers](0728-self-dividing-numbers/) | Easy | 1 | Java |
 | 744 | [Find Smallest Letter Greater Than Target](0744-find-smallest-letter-greater-than-target/) | Easy | 1 | Java |
 | 832 | [Flipping an Image](0832-flipping-an-image/) | Easy | 3 | Java |
-| 852 | [Peak Index in a Mountain Array](0852-peak-index-in-a-mountain-array/) | Medium | 3 | Java |
+| 852 | [Peak Index in a Mountain Array](0852-peak-index-in-a-mountain-array/) | Medium | 4 | Java |
 | 867 | [Transpose Matrix](0867-transpose-matrix/) | Easy | 1 | Java |
 | 1108 | [Defanging an IP Address](1108-defanging-an-ip-address/) | Easy | 2 | Java |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | 1 | C++ |
