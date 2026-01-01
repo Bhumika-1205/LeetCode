@@ -7,7 +7,7 @@ Synced automatically by LeetSync.
 
 | Solved | Easy | Medium | Hard | Solutions saved |
 |:-:|:-:|:-:|:-:|:-:|
-| **129** | 78 | 47 | 4 | 193 |
+| **135** | 81 | 50 | 4 | 202 |
 
 | # | Problem | Difficulty | Solutions | Languages |
 |--:|---------|------------|:-:|-----------|
@@ -19,7 +19,7 @@ Synced automatically by LeetSync.
 | 7 | [Reverse Integer](0007-reverse-integer/) | Medium | 3 | Java |
 | 8 | [String to Integer (atoi)](0008-string-to-integer-atoi/) | Medium | 1 | Java |
 | 9 | [Palindrome Number](0009-palindrome-number/) | Easy | 2 | Java |
-| 11 | [Container With Most Water](0011-container-with-most-water/) | Medium | 1 | Java |
+| 11 | [Container With Most Water](0011-container-with-most-water/) | Medium | 2 | Java |
 | 14 | [Longest Common Prefix](0014-longest-common-prefix/) | Easy | 1 | Java |
 | 17 | [Letter Combinations of a Phone Number](0017-letter-combinations-of-a-phone-number/) | Medium | 1 | Java |
 | 26 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/) | Easy | 2 | Java |
@@ -45,6 +45,7 @@ Synced automatically by LeetSync.
 | 75 | [Sort Colors](0075-sort-colors/) | Medium | 2 | Java |
 | 80 | [Remove Duplicates from Sorted Array II](0080-remove-duplicates-from-sorted-array-ii/) | Medium | 1 | Java |
 | 81 | [Search in Rotated Sorted Array II](0081-search-in-rotated-sorted-array-ii/) | Medium | 1 | Java |
+| 83 | [Remove Duplicates from Sorted List](0083-remove-duplicates-from-sorted-list/) | Easy | 1 | Java |
 | 88 | [Merge Sorted Array](0088-merge-sorted-array/) | Easy | 2 | Java |
 | 118 | [Pascal's Triangle](0118-pascals-triangle/) | Easy | 1 | Java |
 | 119 | [Pascal's Triangle II](0119-pascals-triangle-ii/) | Easy | 1 | Java |
@@ -53,6 +54,8 @@ Synced automatically by LeetSync.
 | 125 | [Valid Palindrome](0125-valid-palindrome/) | Easy | 1 | Java |
 | 136 | [Single Number](0136-single-number/) | Easy | 2 | Java |
 | 137 | [Single Number II](0137-single-number-ii/) | Medium | 2 | Java |
+| 141 | [Linked List Cycle](0141-linked-list-cycle/) | Easy | 1 | Java |
+| 142 | [Linked List Cycle II](0142-linked-list-cycle-ii/) | Medium | 1 | Java |
 | 151 | [Reverse Words in a String](0151-reverse-words-in-a-string/) | Medium | 3 | Java |
 | 152 | [Maximum Product Subarray](0152-maximum-product-subarray/) | Medium | 2 | Java |
 | 153 | [Find Minimum in Rotated Sorted Array](0153-find-minimum-in-rotated-sorted-array/) | Medium | 1 | Java |
@@ -63,13 +66,13 @@ Synced automatically by LeetSync.
 | 169 | [Majority Element](0169-majority-element/) | Easy | 2 | Java |
 | 172 | [Factorial Trailing Zeroes](0172-factorial-trailing-zeroes/) | Medium | 1 | Java |
 | 189 | [Rotate Array](0189-rotate-array/) | Medium | 3 | Java |
-| 202 | [Happy Number](0202-happy-number/) | Easy | 1 | Java |
+| 202 | [Happy Number](0202-happy-number/) | Easy | 2 | Java |
 | 204 | [Count Primes](0204-count-primes/) | Medium | 1 | Java |
 | 209 | [Minimum Size Subarray Sum](0209-minimum-size-subarray-sum/) | Medium | 1 | Java |
 | 215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/) | Medium | 2 | Java |
 | 217 | [Contains Duplicate](0217-contains-duplicate/) | Easy | 1 | Java |
 | 219 | [Contains Duplicate II](0219-contains-duplicate-ii/) | Easy | 1 | Java |
-| 229 | [Majority Element II](0229-majority-element-ii/) | Medium | 1 | Java |
+| 229 | [Majority Element II](0229-majority-element-ii/) | Medium | 2 | Java |
 | 231 | [Power of Two](0231-power-of-two/) | Easy | 5 | Java |
 | 238 | [Product of Array Except Self](0238-product-of-array-except-self/) | Medium | 1 | Java |
 | 240 | [Search a 2D Matrix II](0240-search-a-2d-matrix-ii/) | Medium | 1 | Java |
@@ -85,12 +88,14 @@ Synced automatically by LeetSync.
 | 344 | [Reverse String](0344-reverse-string/) | Easy | 1 | Java |
 | 365 | [Water and Jug Problem](0365-water-and-jug-problem/) | Medium | 1 | Java |
 | 367 | [Valid Perfect Square](0367-valid-perfect-square/) | Easy | 2 | Java |
+| 371 | [Sum of Two Integers](0371-sum-of-two-integers/) | Medium | 1 | Java |
 | 387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/) | Easy | 1 | Java |
 | 410 | [Split Array Largest Sum](0410-split-array-largest-sum/) | Hard | 1 | Java |
 | 412 | [Fizz Buzz](0412-fizz-buzz/) | Easy | 1 | Java |
 | 414 | [Third Maximum Number](0414-third-maximum-number/) | Easy | 1 | Java |
 | 442 | [Find All Duplicates in an Array](0442-find-all-duplicates-in-an-array/) | Medium | 1 | Java |
 | 448 | [Find All Numbers Disappeared in an Array](0448-find-all-numbers-disappeared-in-an-array/) | Easy | 1 | Java |
+| 453 | [Minimum Moves to Equal Array Elements](0453-minimum-moves-to-equal-array-elements/) | Medium | 1 | Java |
 | 485 | [Max Consecutive Ones](0485-max-consecutive-ones/) | Easy | 2 | Java |
 | 492 | [Construct the Rectangle](0492-construct-the-rectangle/) | Easy | 1 | Java |
 | 504 | [Base 7](0504-base-7/) | Easy | 1 | Java |
@@ -106,6 +111,7 @@ Synced automatically by LeetSync.
 | 832 | [Flipping an Image](0832-flipping-an-image/) | Easy | 3 | Java |
 | 852 | [Peak Index in a Mountain Array](0852-peak-index-in-a-mountain-array/) | Medium | 4 | Java |
 | 867 | [Transpose Matrix](0867-transpose-matrix/) | Easy | 1 | Java |
+| 1013 | [Partition Array Into Three Parts With Equal Sum](1013-partition-array-into-three-parts-with-equal-sum/) | Easy | 1 | Java |
 | 1108 | [Defanging an IP Address](1108-defanging-an-ip-address/) | Easy | 2 | Java |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | 1 | C++ |
 | 1295 | [Find Numbers with Even Number of Digits](1295-find-numbers-with-even-number-of-digits/) | Easy | 1 | Java |

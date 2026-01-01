@@ -50,5 +50,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [happy-number.java](happy-number.java) | Java | Accepted | 0 ms (beats 100.0%) | 40.4 MB (beats 100.0%) | 2024-07-11 |
+| 2 | [2-happy-number.java](2-happy-number.java) | Java | Accepted | 1 ms (beats 77.7%) | 42.2 MB (beats 78.1%) | 2026-01-01 |
 
 <sub>Synced by LeetSync</sub>
