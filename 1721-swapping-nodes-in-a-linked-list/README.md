@@ -39,5 +39,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [swapping-nodes-in-a-linked-list.java](swapping-nodes-in-a-linked-list.java) | Java | Accepted | 3 ms (beats 14.1%) | 119.4 MB (beats 23.6%) | 2026-01-02 |
+| 2 | [2-swapping-nodes-in-a-linked-list.java](2-swapping-nodes-in-a-linked-list.java) | Java | Accepted | 2 ms (beats 50.7%) | 119.3 MB (beats 32.9%) | 2026-01-02 |
 
 <sub>Synced by LeetSync</sub>
