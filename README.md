@@ -7,11 +7,12 @@ Synced automatically by LeetSync.
 
 | Solved | Easy | Medium | Hard | Solutions saved |
 |:-:|:-:|:-:|:-:|:-:|
-| **135** | 81 | 50 | 4 | 202 |
+| **142** | 83 | 55 | 4 | 212 |
 
 | # | Problem | Difficulty | Solutions | Languages |
 |--:|---------|------------|:-:|-----------|
 | 1 | [Two Sum](0001-two-sum/) | Easy | 1 | Java |
+| 2 | [Add Two Numbers](0002-add-two-numbers/) | Medium | 1 | Java |
 | 3 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/) | Medium | 2 | Java |
 | 4 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/) | Hard | 2 | Java |
 | 5 | [Longest Palindromic Substring](0005-longest-palindromic-substring/) | Medium | 1 | Java |
@@ -22,6 +23,9 @@ Synced automatically by LeetSync.
 | 11 | [Container With Most Water](0011-container-with-most-water/) | Medium | 2 | Java |
 | 14 | [Longest Common Prefix](0014-longest-common-prefix/) | Easy | 1 | Java |
 | 17 | [Letter Combinations of a Phone Number](0017-letter-combinations-of-a-phone-number/) | Medium | 1 | Java |
+| 19 | [Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/) | Medium | 1 | Java |
+| 20 | [Valid Parentheses](0020-valid-parentheses/) | Easy | 1 | Java |
+| 24 | [Swap Nodes in Pairs](0024-swap-nodes-in-pairs/) | Medium | 1 | Java |
 | 26 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/) | Easy | 2 | Java |
 | 27 | [Remove Element](0027-remove-element/) | Easy | 1 | Java |
 | 28 | [Find the Index of the First Occurrence in a String](0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy | 1 | Java |
@@ -36,6 +40,7 @@ Synced automatically by LeetSync.
 | 55 | [Jump Game](0055-jump-game/) | Medium | 1 | Java |
 | 58 | [Length of Last Word](0058-length-of-last-word/) | Easy | 1 | Java |
 | 59 | [Spiral Matrix II](0059-spiral-matrix-ii/) | Medium | 1 | Java |
+| 61 | [Rotate List](0061-rotate-list/) | Medium | 1 | Java |
 | 62 | [Unique Paths](0062-unique-paths/) | Medium | 1 | Java |
 | 66 | [Plus One](0066-plus-one/) | Easy | 1 | Java |
 | 67 | [Add Binary](0067-add-binary/) | Easy | 1 | Java |
@@ -66,8 +71,9 @@ Synced automatically by LeetSync.
 | 169 | [Majority Element](0169-majority-element/) | Easy | 2 | Java |
 | 172 | [Factorial Trailing Zeroes](0172-factorial-trailing-zeroes/) | Medium | 1 | Java |
 | 189 | [Rotate Array](0189-rotate-array/) | Medium | 3 | Java |
-| 202 | [Happy Number](0202-happy-number/) | Easy | 2 | Java |
+| 202 | [Happy Number](0202-happy-number/) | Easy | 3 | Java |
 | 204 | [Count Primes](0204-count-primes/) | Medium | 1 | Java |
+| 206 | [Reverse Linked List](0206-reverse-linked-list/) | Easy | 2 | Java |
 | 209 | [Minimum Size Subarray Sum](0209-minimum-size-subarray-sum/) | Medium | 1 | Java |
 | 215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/) | Medium | 2 | Java |
 | 217 | [Contains Duplicate](0217-contains-duplicate/) | Easy | 1 | Java |
@@ -126,6 +132,7 @@ Synced automatically by LeetSync.
 | 1572 | [Matrix Diagonal Sum](1572-matrix-diagonal-sum/) | Easy | 1 | Java |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/) | Easy | 1 | Java |
 | 1678 | [Goal Parser Interpretation](1678-goal-parser-interpretation/) | Easy | 2 | Java |
+| 1721 | [Swapping Nodes in a Linked List](1721-swapping-nodes-in-a-linked-list/) | Medium | 2 | Java |
 | 1732 | [Find the Highest Altitude](1732-find-the-highest-altitude/) | Easy | 1 | Java |
 | 1752 | [Check if Array Is Sorted and Rotated](1752-check-if-array-is-sorted-and-rotated/) | Easy | 1 | Java |
 | 1832 | [Check if the Sentence Is Pangram](1832-check-if-the-sentence-is-pangram/) | Easy | 1 | Java |
