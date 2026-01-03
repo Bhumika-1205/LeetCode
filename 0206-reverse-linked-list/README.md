@@ -47,5 +47,6 @@
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [reverse-linked-list.java](reverse-linked-list.java) | Java | Accepted | 0 ms (beats 100.0%) | 44.2 MB (beats 49.1%) | 2026-01-03 |
 | 2 | [2-reverse-linked-list.java](2-reverse-linked-list.java) | Java | Accepted | 0 ms (beats 100.0%) | 44.3 MB (beats 30.5%) | 2026-01-03 |
+| 3 | [3-reverse-linked-list.java](3-reverse-linked-list.java) | Java | Accepted | 0 ms (beats 100.0%) | 44.3 MB (beats 30.5%) | 2026-01-03 |
 
 <sub>Synced by LeetSync</sub>
