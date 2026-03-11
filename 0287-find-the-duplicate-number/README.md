@@ -58,5 +58,6 @@
 | 1 | [find-the-duplicate-number.java](find-the-duplicate-number.java) | Java | Accepted | 2 ms (beats 98.7%) | 59.9 MB (beats 100.0%) | 2024-12-08 |
 | 2 | [2-find-the-duplicate-number.java](2-find-the-duplicate-number.java) | Java | Accepted | 6 ms (beats 46.2%) | 58.3 MB (beats 100.0%) | 2025-07-11 |
 | 3 | [3-find-the-duplicate-number.java](3-find-the-duplicate-number.java) | Java | Accepted | 1 ms (beats 100.0%) | 59.4 MB (beats 100.0%) | 2025-07-11 |
+| 4 | [4-find-the-duplicate-number.java](4-find-the-duplicate-number.java) | Java | Accepted | 1 ms (beats 100.0%) | 85.8 MB (beats 25.7%) | 2026-03-11 |
 
 <sub>Synced by LeetSync</sub>
