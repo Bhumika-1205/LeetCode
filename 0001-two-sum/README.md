@@ -53,5 +53,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [two-sum.java](two-sum.java) | Java | Accepted | 38 ms (beats 41.0%) | 45 MB (beats 100.0%) | 2024-07-09 |
+| 2 | [2-two-sum.java](2-two-sum.java) | Java | Accepted | 2 ms (beats 99.4%) | 46.9 MB (beats 84.2%) | 2026-03-27 |
 
 <sub>Synced by LeetSync</sub>
