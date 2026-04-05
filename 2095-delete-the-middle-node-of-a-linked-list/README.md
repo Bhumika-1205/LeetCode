@@ -60,5 +60,6 @@ Node 0 with value 2 is the only node remaining after removing node 1.</pre>
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [delete-the-middle-node-of-a-linked-list.java](delete-the-middle-node-of-a-linked-list.java) | Java | Accepted | 3 ms (beats 100.0%) | 202.3 MB (beats 88.3%) | 2026-04-05 |
 | 2 | [2-delete-the-middle-node-of-a-linked-list.java](2-delete-the-middle-node-of-a-linked-list.java) | Java | Accepted | 3 ms (beats 100.0%) | 202.7 MB (beats 23.1%) | 2026-04-05 |
+| 3 | [3-delete-the-middle-node-of-a-linked-list.java](3-delete-the-middle-node-of-a-linked-list.java) | Java | Accepted | 4 ms (beats 21.8%) | 202.8 MB (beats 23.1%) | 2026-04-05 |
 
 <sub>Synced by LeetSync</sub>
