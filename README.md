@@ -7,11 +7,11 @@ Synced automatically by LeetSync.
 
 | Solved | Easy | Medium | Hard | Solutions saved |
 |:-:|:-:|:-:|:-:|:-:|
-| **142** | 83 | 55 | 4 | 212 |
+| **146** | 84 | 58 | 4 | 222 |
 
 | # | Problem | Difficulty | Solutions | Languages |
 |--:|---------|------------|:-:|-----------|
-| 1 | [Two Sum](0001-two-sum/) | Easy | 1 | Java |
+| 1 | [Two Sum](0001-two-sum/) | Easy | 2 | Java |
 | 2 | [Add Two Numbers](0002-add-two-numbers/) | Medium | 1 | Java |
 | 3 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/) | Medium | 2 | Java |
 | 4 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/) | Hard | 2 | Java |
@@ -57,10 +57,11 @@ Synced automatically by LeetSync.
 | 121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/) | Easy | 1 | Java |
 | 122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/) | Medium | 5 | Java |
 | 125 | [Valid Palindrome](0125-valid-palindrome/) | Easy | 1 | Java |
+| 128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence/) | Medium | 1 | Java |
 | 136 | [Single Number](0136-single-number/) | Easy | 2 | Java |
 | 137 | [Single Number II](0137-single-number-ii/) | Medium | 2 | Java |
 | 141 | [Linked List Cycle](0141-linked-list-cycle/) | Easy | 1 | Java |
-| 142 | [Linked List Cycle II](0142-linked-list-cycle-ii/) | Medium | 1 | Java |
+| 142 | [Linked List Cycle II](0142-linked-list-cycle-ii/) | Medium | 2 | Java |
 | 151 | [Reverse Words in a String](0151-reverse-words-in-a-string/) | Medium | 3 | Java |
 | 152 | [Maximum Product Subarray](0152-maximum-product-subarray/) | Medium | 2 | Java |
 | 153 | [Find Minimum in Rotated Sorted Array](0153-find-minimum-in-rotated-sorted-array/) | Medium | 1 | Java |
@@ -73,13 +74,14 @@ Synced automatically by LeetSync.
 | 189 | [Rotate Array](0189-rotate-array/) | Medium | 3 | Java |
 | 202 | [Happy Number](0202-happy-number/) | Easy | 3 | Java |
 | 204 | [Count Primes](0204-count-primes/) | Medium | 1 | Java |
-| 206 | [Reverse Linked List](0206-reverse-linked-list/) | Easy | 2 | Java |
+| 206 | [Reverse Linked List](0206-reverse-linked-list/) | Easy | 3 | Java |
 | 209 | [Minimum Size Subarray Sum](0209-minimum-size-subarray-sum/) | Medium | 1 | Java |
 | 215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/) | Medium | 2 | Java |
 | 217 | [Contains Duplicate](0217-contains-duplicate/) | Easy | 1 | Java |
 | 219 | [Contains Duplicate II](0219-contains-duplicate-ii/) | Easy | 1 | Java |
 | 229 | [Majority Element II](0229-majority-element-ii/) | Medium | 2 | Java |
 | 231 | [Power of Two](0231-power-of-two/) | Easy | 5 | Java |
+| 237 | [Delete Node in a Linked List](0237-delete-node-in-a-linked-list/) | Medium | 1 | Java |
 | 238 | [Product of Array Except Self](0238-product-of-array-except-self/) | Medium | 1 | Java |
 | 240 | [Search a 2D Matrix II](0240-search-a-2d-matrix-ii/) | Medium | 1 | Java |
 | 242 | [Valid Anagram](0242-valid-anagram/) | Easy | 1 | Java |
@@ -87,7 +89,7 @@ Synced automatically by LeetSync.
 | 263 | [Ugly Number](0263-ugly-number/) | Easy | 2 | Java |
 | 268 | [Missing Number](0268-missing-number/) | Easy | 4 | Java |
 | 283 | [Move Zeroes](0283-move-zeroes/) | Easy | 1 | Java |
-| 287 | [Find the Duplicate Number](0287-find-the-duplicate-number/) | Medium | 3 | Java |
+| 287 | [Find the Duplicate Number](0287-find-the-duplicate-number/) | Medium | 4 | Java |
 | 292 | [Nim Game](0292-nim-game/) | Easy | 2 | Java |
 | 326 | [Power of Three](0326-power-of-three/) | Easy | 1 | Java |
 | 342 | [Power of Four](0342-power-of-four/) | Easy | 1 | Java |
@@ -117,6 +119,7 @@ Synced automatically by LeetSync.
 | 832 | [Flipping an Image](0832-flipping-an-image/) | Easy | 3 | Java |
 | 852 | [Peak Index in a Mountain Array](0852-peak-index-in-a-mountain-array/) | Medium | 4 | Java |
 | 867 | [Transpose Matrix](0867-transpose-matrix/) | Easy | 1 | Java |
+| 876 | [Middle of the Linked List](0876-middle-of-the-linked-list/) | Easy | 1 | Java |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](1013-partition-array-into-three-parts-with-equal-sum/) | Easy | 1 | Java |
 | 1108 | [Defanging an IP Address](1108-defanging-an-ip-address/) | Easy | 2 | Java |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | 1 | C++ |
@@ -139,6 +142,7 @@ Synced automatically by LeetSync.
 | 1863 | [Sum of All Subset XOR Totals](1863-sum-of-all-subset-xor-totals/) | Easy | 1 | Java |
 | 1920 | [Build Array from Permutation](1920-build-array-from-permutation/) | Easy | 1 | Java |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/) | Easy | 1 | Java |
+| 2095 | [Delete the Middle Node of a Linked List](2095-delete-the-middle-node-of-a-linked-list/) | Medium | 3 | Java |
 | 2139 | [Minimum Moves to Reach Target Score](2139-minimum-moves-to-reach-target-score/) | Medium | 2 | Java |
 | 2148 | [Count Elements With Strictly Smaller and Greater Elements ](2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy | 1 | Java |
 | 2149 | [Rearrange Array Elements by Sign](2149-rearrange-array-elements-by-sign/) | Medium | 1 | Java |

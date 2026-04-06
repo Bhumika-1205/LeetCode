@@ -54,5 +54,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [linked-list-cycle-ii.java](linked-list-cycle-ii.java) | Java | Accepted | 0 ms (beats 100.0%) | 46.6 MB (beats 50.1%) | 2026-01-01 |
+| 2 | [2-linked-list-cycle-ii.java](2-linked-list-cycle-ii.java) | Java | Accepted | 0 ms (beats 100.0%) | 46.7 MB (beats 50.1%) | 2026-04-06 |
 
 <sub>Synced by LeetSync</sub>
