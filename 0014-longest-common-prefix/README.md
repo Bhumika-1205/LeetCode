@@ -40,5 +40,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [longest-common-prefix.java](longest-common-prefix.java) | Java | Accepted | 2 ms (beats 16.8%) | 43.9 MB (beats 8.1%) | 2024-07-12 |
+| 2 | [2-longest-common-prefix.java](2-longest-common-prefix.java) | Java | Accepted | 0 ms (beats 100.0%) | 43.2 MB (beats 67.0%) | 2026-06-21 |
 
 <sub>Synced by LeetSync</sub>
