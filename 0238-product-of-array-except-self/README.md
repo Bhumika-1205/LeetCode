@@ -37,5 +37,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [product-of-array-except-self.java](product-of-array-except-self.java) | Java | Accepted | 2 ms (beats 91.5%) | 56 MB (beats 99.9%) | 2024-12-24 |
+| 2 | [2-product-of-array-except-self.java](2-product-of-array-except-self.java) | Java | Accepted | 2 ms (beats 91.5%) | 72.2 MB (beats 17.6%) | 2026-06-21 |
 
 <sub>Synced by LeetSync</sub>
