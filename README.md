@@ -7,7 +7,7 @@ Synced automatically by LeetSync.
 
 | Solved | Easy | Medium | Hard | Solutions saved |
 |:-:|:-:|:-:|:-:|:-:|
-| **146** | 84 | 58 | 4 | 222 |
+| **152** | 87 | 61 | 4 | 231 |
 
 | # | Problem | Difficulty | Solutions | Languages |
 |--:|---------|------------|:-:|-----------|
@@ -21,7 +21,7 @@ Synced automatically by LeetSync.
 | 8 | [String to Integer (atoi)](0008-string-to-integer-atoi/) | Medium | 1 | Java |
 | 9 | [Palindrome Number](0009-palindrome-number/) | Easy | 2 | Java |
 | 11 | [Container With Most Water](0011-container-with-most-water/) | Medium | 2 | Java |
-| 14 | [Longest Common Prefix](0014-longest-common-prefix/) | Easy | 1 | Java |
+| 14 | [Longest Common Prefix](0014-longest-common-prefix/) | Easy | 2 | Java |
 | 17 | [Letter Combinations of a Phone Number](0017-letter-combinations-of-a-phone-number/) | Medium | 1 | Java |
 | 19 | [Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/) | Medium | 1 | Java |
 | 20 | [Valid Parentheses](0020-valid-parentheses/) | Easy | 1 | Java |
@@ -33,6 +33,7 @@ Synced automatically by LeetSync.
 | 33 | [Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array/) | Medium | 1 | Java |
 | 34 | [Find First and Last Position of Element in Sorted Array](0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium | 2 | Java |
 | 35 | [Search Insert Position](0035-search-insert-position/) | Easy | 1 | Java |
+| 36 | [Valid Sudoku](0036-valid-sudoku/) | Medium | 1 | Java |
 | 41 | [First Missing Positive](0041-first-missing-positive/) | Hard | 3 | Java |
 | 48 | [Rotate Image](0048-rotate-image/) | Medium | 1 | Java |
 | 53 | [Maximum Subarray](0053-maximum-subarray/) | Medium | 1 | Java |
@@ -47,7 +48,7 @@ Synced automatically by LeetSync.
 | 69 | [Sqrt(x)](0069-sqrtx/) | Easy | 2 | Java |
 | 73 | [Set Matrix Zeroes](0073-set-matrix-zeroes/) | Medium | 2 | Java |
 | 74 | [Search a 2D Matrix](0074-search-a-2d-matrix/) | Medium | 1 | Java |
-| 75 | [Sort Colors](0075-sort-colors/) | Medium | 2 | Java |
+| 75 | [Sort Colors](0075-sort-colors/) | Medium | 3 | Java |
 | 80 | [Remove Duplicates from Sorted Array II](0080-remove-duplicates-from-sorted-array-ii/) | Medium | 1 | Java |
 | 81 | [Search in Rotated Sorted Array II](0081-search-in-rotated-sorted-array-ii/) | Medium | 1 | Java |
 | 83 | [Remove Duplicates from Sorted List](0083-remove-duplicates-from-sorted-list/) | Easy | 1 | Java |
@@ -82,7 +83,7 @@ Synced automatically by LeetSync.
 | 229 | [Majority Element II](0229-majority-element-ii/) | Medium | 2 | Java |
 | 231 | [Power of Two](0231-power-of-two/) | Easy | 5 | Java |
 | 237 | [Delete Node in a Linked List](0237-delete-node-in-a-linked-list/) | Medium | 1 | Java |
-| 238 | [Product of Array Except Self](0238-product-of-array-except-self/) | Medium | 1 | Java |
+| 238 | [Product of Array Except Self](0238-product-of-array-except-self/) | Medium | 2 | Java |
 | 240 | [Search a 2D Matrix II](0240-search-a-2d-matrix-ii/) | Medium | 1 | Java |
 | 242 | [Valid Anagram](0242-valid-anagram/) | Easy | 1 | Java |
 | 258 | [Add Digits](0258-add-digits/) | Easy | 4 | Java |
@@ -110,9 +111,13 @@ Synced automatically by LeetSync.
 | 507 | [Perfect Number](0507-perfect-number/) | Easy | 1 | Java |
 | 509 | [Fibonacci Number](0509-fibonacci-number/) | Easy | 1 | Java |
 | 540 | [Single Element in a Sorted Array](0540-single-element-in-a-sorted-array/) | Medium | 1 | Java |
+| 560 | [Subarray Sum Equals K](0560-subarray-sum-equals-k/) | Medium | 1 | Java |
 | 633 | [Sum of Square Numbers](0633-sum-of-square-numbers/) | Medium | 1 | Java |
 | 645 | [Set Mismatch](0645-set-mismatch/) | Easy | 1 | Java |
+| 680 | [Valid Palindrome II](0680-valid-palindrome-ii/) | Easy | 1 | Java |
 | 704 | [Binary Search](0704-binary-search/) | Easy | 1 | Java |
+| 705 | [Design HashSet](0705-design-hashset/) | Easy | 1 | Java |
+| 706 | [Design HashMap](0706-design-hashmap/) | Easy | 1 | Java |
 | 709 | [To Lower Case](0709-to-lower-case/) | Easy | 2 | Java |
 | 728 | [Self Dividing Numbers](0728-self-dividing-numbers/) | Easy | 1 | Java |
 | 744 | [Find Smallest Letter Greater Than Target](0744-find-smallest-letter-greater-than-target/) | Easy | 1 | Java |
@@ -120,6 +125,7 @@ Synced automatically by LeetSync.
 | 852 | [Peak Index in a Mountain Array](0852-peak-index-in-a-mountain-array/) | Medium | 4 | Java |
 | 867 | [Transpose Matrix](0867-transpose-matrix/) | Easy | 1 | Java |
 | 876 | [Middle of the Linked List](0876-middle-of-the-linked-list/) | Easy | 1 | Java |
+| 912 | [Sort an Array](0912-sort-an-array/) | Medium | 1 | Java |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](1013-partition-array-into-three-parts-with-equal-sum/) | Easy | 1 | Java |
 | 1108 | [Defanging an IP Address](1108-defanging-an-ip-address/) | Easy | 2 | Java |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | 1 | C++ |
