@@ -60,5 +60,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [number-of-1-bits.java](number-of-1-bits.java) | Java | Accepted | 0 ms (beats 100.0%) | 42.2 MB (beats 80.4%) | 2026-06-23 |
+| 2 | [2-number-of-1-bits.java](2-number-of-1-bits.java) | Java | Accepted | 1 ms (beats 30.3%) | 42.5 MB (beats 46.4%) | 2026-06-23 |
 
 <sub>Synced by LeetSync</sub>
