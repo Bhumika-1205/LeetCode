@@ -38,5 +38,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [maximum-depth-of-binary-tree.java](maximum-depth-of-binary-tree.java) | Java | Accepted | 0 ms (beats 100.0%) | 47.1 MB (beats 45.4%) | 2026-07-11 |
+| 2 | [2-maximum-depth-of-binary-tree.java](2-maximum-depth-of-binary-tree.java) | Java | Accepted | 0 ms (beats 100.0%) | 46.8 MB (beats 83.0%) | 2026-07-11 |
 
 <sub>Synced by LeetSync</sub>
