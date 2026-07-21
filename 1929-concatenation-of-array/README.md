@@ -46,5 +46,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [concatenation-of-array.java](concatenation-of-array.java) | Java | Accepted | 1 ms (beats 97.5%) | 45.3 MB (beats 99.9%) | 2024-12-19 |
+| 2 | [2-concatenation-of-array.java](2-concatenation-of-array.java) | Java | Accepted | 1 ms (beats 97.5%) | 47.5 MB (beats 5.0%) | 2026-07-21 |
 
 <sub>Synced by LeetSync</sub>
