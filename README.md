@@ -7,7 +7,7 @@ Synced automatically by LeetSync.
 
 | Solved | Easy | Medium | Hard | Solutions saved |
 |:-:|:-:|:-:|:-:|:-:|
-| **152** | 87 | 61 | 4 | 231 |
+| **157** | 91 | 62 | 4 | 240 |
 
 | # | Problem | Difficulty | Solutions | Languages |
 |--:|---------|------------|:-:|-----------|
@@ -53,6 +53,8 @@ Synced automatically by LeetSync.
 | 81 | [Search in Rotated Sorted Array II](0081-search-in-rotated-sorted-array-ii/) | Medium | 1 | Java |
 | 83 | [Remove Duplicates from Sorted List](0083-remove-duplicates-from-sorted-list/) | Easy | 1 | Java |
 | 88 | [Merge Sorted Array](0088-merge-sorted-array/) | Easy | 2 | Java |
+| 94 | [Binary Tree Inorder Traversal](0094-binary-tree-inorder-traversal/) | Easy | 1 | Java |
+| 104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/) | Easy | 2 | Java |
 | 118 | [Pascal's Triangle](0118-pascals-triangle/) | Easy | 1 | Java |
 | 119 | [Pascal's Triangle II](0119-pascals-triangle-ii/) | Easy | 1 | Java |
 | 121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/) | Easy | 1 | Java |
@@ -73,6 +75,8 @@ Synced automatically by LeetSync.
 | 169 | [Majority Element](0169-majority-element/) | Easy | 2 | Java |
 | 172 | [Factorial Trailing Zeroes](0172-factorial-trailing-zeroes/) | Medium | 1 | Java |
 | 189 | [Rotate Array](0189-rotate-array/) | Medium | 3 | Java |
+| 190 | [Reverse Bits](0190-reverse-bits/) | Easy | 1 | Java |
+| 191 | [Number of 1 Bits](0191-number-of-1-bits/) | Easy | 2 | Java |
 | 202 | [Happy Number](0202-happy-number/) | Easy | 3 | Java |
 | 204 | [Count Primes](0204-count-primes/) | Medium | 1 | Java |
 | 206 | [Reverse Linked List](0206-reverse-linked-list/) | Easy | 3 | Java |
@@ -87,6 +91,7 @@ Synced automatically by LeetSync.
 | 240 | [Search a 2D Matrix II](0240-search-a-2d-matrix-ii/) | Medium | 1 | Java |
 | 242 | [Valid Anagram](0242-valid-anagram/) | Easy | 1 | Java |
 | 258 | [Add Digits](0258-add-digits/) | Easy | 4 | Java |
+| 260 | [Single Number III](0260-single-number-iii/) | Medium | 1 | Java |
 | 263 | [Ugly Number](0263-ugly-number/) | Easy | 2 | Java |
 | 268 | [Missing Number](0268-missing-number/) | Easy | 4 | Java |
 | 283 | [Move Zeroes](0283-move-zeroes/) | Easy | 1 | Java |
@@ -134,7 +139,7 @@ Synced automatically by LeetSync.
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/) | Easy | 1 | Java |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy | 2 | Java |
 | 1431 | [Kids With the Greatest Number of Candies](1431-kids-with-the-greatest-number-of-candies/) | Easy | 1 | Java |
-| 1470 | [Shuffle the Array](1470-shuffle-the-array/) | Easy | 1 | Java |
+| 1470 | [Shuffle the Array](1470-shuffle-the-array/) | Easy | 2 | Java |
 | 1480 | [Running Sum of 1d Array](1480-running-sum-of-1d-array/) | Easy | 1 | Java |
 | 1512 | [Number of Good Pairs](1512-number-of-good-pairs/) | Easy | 1 | Java |
 | 1528 | [Shuffle String](1528-shuffle-string/) | Easy | 3 | Java |
@@ -147,7 +152,7 @@ Synced automatically by LeetSync.
 | 1832 | [Check if the Sentence Is Pangram](1832-check-if-the-sentence-is-pangram/) | Easy | 1 | Java |
 | 1863 | [Sum of All Subset XOR Totals](1863-sum-of-all-subset-xor-totals/) | Easy | 1 | Java |
 | 1920 | [Build Array from Permutation](1920-build-array-from-permutation/) | Easy | 1 | Java |
-| 1929 | [Concatenation of Array](1929-concatenation-of-array/) | Easy | 1 | Java |
+| 1929 | [Concatenation of Array](1929-concatenation-of-array/) | Easy | 2 | Java |
 | 2095 | [Delete the Middle Node of a Linked List](2095-delete-the-middle-node-of-a-linked-list/) | Medium | 3 | Java |
 | 2139 | [Minimum Moves to Reach Target Score](2139-minimum-moves-to-reach-target-score/) | Medium | 2 | Java |
 | 2148 | [Count Elements With Strictly Smaller and Greater Elements ](2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy | 1 | Java |

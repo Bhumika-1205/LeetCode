@@ -47,5 +47,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [shuffle-the-array.java](shuffle-the-array.java) | Java | Accepted | 0 ms (beats 100.0%) | 44.6 MB (beats 99.8%) | 2024-12-20 |
+| 2 | [2-shuffle-the-array.java](2-shuffle-the-array.java) | Java | Accepted | 0 ms (beats 100.0%) | 46.3 MB (beats 90.4%) | 2026-07-21 |
 
 <sub>Synced by LeetSync</sub>
