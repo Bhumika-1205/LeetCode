@@ -49,5 +49,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [maximum-subarray.java](maximum-subarray.java) | Java | Accepted | 1 ms (beats 99.9%) | 57.3 MB (beats 100.0%) | 2025-06-26 |
+| 2 | [2-maximum-subarray.java](2-maximum-subarray.java) | Java | Accepted | 1 ms (beats 99.9%) | 77.3 MB (beats 32.8%) | 2026-07-27 |
 
 <sub>Synced by LeetSync</sub>
