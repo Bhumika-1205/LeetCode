@@ -61,5 +61,6 @@ myCircularQueue.Rear();     // return 4
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [design-circular-queue.java](design-circular-queue.java) | Java | Accepted | 5 ms (beats 30.0%) | 46.5 MB (beats 51.1%) | 2026-08-22 |
+| 2 | [2-design-circular-queue.java](2-design-circular-queue.java) | Java | Accepted | 4 ms (beats 100.0%) | 46.7 MB (beats 31.6%) | 2026-08-22 |
 
 <sub>Synced by LeetSync</sub>
