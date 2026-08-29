@@ -45,5 +45,6 @@
 | # | File | Language | Status | Runtime | Memory | Submitted |
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [3sum-closest.java](3sum-closest.java) | Java | Accepted | 17 ms (beats 77.7%) | 45.7 MB (beats 31.3%) | 2026-08-29 |
+| 2 | [2-3sum-closest.java](2-3sum-closest.java) | Java | Accepted | 17 ms (beats 77.7%) | 45.6 MB (beats 31.3%) | 2026-08-29 |
 
 <sub>Synced by LeetSync</sub>
