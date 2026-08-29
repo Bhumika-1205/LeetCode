@@ -7,7 +7,7 @@ Synced automatically by LeetSync.
 
 | Solved | Easy | Medium | Hard | Solutions saved |
 |:-:|:-:|:-:|:-:|:-:|
-| **157** | 91 | 62 | 4 | 240 |
+| **164** | 93 | 66 | 5 | 250 |
 
 | # | Problem | Difficulty | Solutions | Languages |
 |--:|---------|------------|:-:|-----------|
@@ -22,9 +22,12 @@ Synced automatically by LeetSync.
 | 9 | [Palindrome Number](0009-palindrome-number/) | Easy | 2 | Java |
 | 11 | [Container With Most Water](0011-container-with-most-water/) | Medium | 2 | Java |
 | 14 | [Longest Common Prefix](0014-longest-common-prefix/) | Easy | 2 | Java |
+| 15 | [3Sum](0015-3sum/) | Medium | 1 | Java |
 | 17 | [Letter Combinations of a Phone Number](0017-letter-combinations-of-a-phone-number/) | Medium | 1 | Java |
 | 19 | [Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/) | Medium | 1 | Java |
 | 20 | [Valid Parentheses](0020-valid-parentheses/) | Easy | 1 | Java |
+| 21 | [Merge Two Sorted Lists](0021-merge-two-sorted-lists/) | Easy | 1 | Java |
+| 23 | [Merge k Sorted Lists](0023-merge-k-sorted-lists/) | Hard | 1 | Java |
 | 24 | [Swap Nodes in Pairs](0024-swap-nodes-in-pairs/) | Medium | 1 | Java |
 | 26 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/) | Easy | 2 | Java |
 | 27 | [Remove Element](0027-remove-element/) | Easy | 1 | Java |
@@ -36,7 +39,7 @@ Synced automatically by LeetSync.
 | 36 | [Valid Sudoku](0036-valid-sudoku/) | Medium | 1 | Java |
 | 41 | [First Missing Positive](0041-first-missing-positive/) | Hard | 3 | Java |
 | 48 | [Rotate Image](0048-rotate-image/) | Medium | 1 | Java |
-| 53 | [Maximum Subarray](0053-maximum-subarray/) | Medium | 1 | Java |
+| 53 | [Maximum Subarray](0053-maximum-subarray/) | Medium | 2 | Java |
 | 54 | [Spiral Matrix](0054-spiral-matrix/) | Medium | 1 | Java |
 | 55 | [Jump Game](0055-jump-game/) | Medium | 1 | Java |
 | 58 | [Length of Last Word](0058-length-of-last-word/) | Easy | 1 | Java |
@@ -53,6 +56,7 @@ Synced automatically by LeetSync.
 | 81 | [Search in Rotated Sorted Array II](0081-search-in-rotated-sorted-array-ii/) | Medium | 1 | Java |
 | 83 | [Remove Duplicates from Sorted List](0083-remove-duplicates-from-sorted-list/) | Easy | 1 | Java |
 | 88 | [Merge Sorted Array](0088-merge-sorted-array/) | Easy | 2 | Java |
+| 92 | [Reverse Linked List II](0092-reverse-linked-list-ii/) | Medium | 1 | Java |
 | 94 | [Binary Tree Inorder Traversal](0094-binary-tree-inorder-traversal/) | Easy | 1 | Java |
 | 104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/) | Easy | 2 | Java |
 | 118 | [Pascal's Triangle](0118-pascals-triangle/) | Easy | 1 | Java |
@@ -65,6 +69,7 @@ Synced automatically by LeetSync.
 | 137 | [Single Number II](0137-single-number-ii/) | Medium | 2 | Java |
 | 141 | [Linked List Cycle](0141-linked-list-cycle/) | Easy | 1 | Java |
 | 142 | [Linked List Cycle II](0142-linked-list-cycle-ii/) | Medium | 2 | Java |
+| 143 | [Reorder List](0143-reorder-list/) | Medium | 1 | Java |
 | 151 | [Reverse Words in a String](0151-reverse-words-in-a-string/) | Medium | 3 | Java |
 | 152 | [Maximum Product Subarray](0152-maximum-product-subarray/) | Medium | 2 | Java |
 | 153 | [Find Minimum in Rotated Sorted Array](0153-find-minimum-in-rotated-sorted-array/) | Medium | 1 | Java |
@@ -110,13 +115,14 @@ Synced automatically by LeetSync.
 | 442 | [Find All Duplicates in an Array](0442-find-all-duplicates-in-an-array/) | Medium | 1 | Java |
 | 448 | [Find All Numbers Disappeared in an Array](0448-find-all-numbers-disappeared-in-an-array/) | Easy | 1 | Java |
 | 453 | [Minimum Moves to Equal Array Elements](0453-minimum-moves-to-equal-array-elements/) | Medium | 1 | Java |
-| 485 | [Max Consecutive Ones](0485-max-consecutive-ones/) | Easy | 2 | Java |
+| 485 | [Max Consecutive Ones](0485-max-consecutive-ones/) | Easy | 3 | Java |
 | 492 | [Construct the Rectangle](0492-construct-the-rectangle/) | Easy | 1 | Java |
 | 504 | [Base 7](0504-base-7/) | Easy | 1 | Java |
 | 507 | [Perfect Number](0507-perfect-number/) | Easy | 1 | Java |
 | 509 | [Fibonacci Number](0509-fibonacci-number/) | Easy | 1 | Java |
 | 540 | [Single Element in a Sorted Array](0540-single-element-in-a-sorted-array/) | Medium | 1 | Java |
 | 560 | [Subarray Sum Equals K](0560-subarray-sum-equals-k/) | Medium | 1 | Java |
+| 622 | [Design Circular Queue](0622-design-circular-queue/) | Medium | 2 | Java |
 | 633 | [Sum of Square Numbers](0633-sum-of-square-numbers/) | Medium | 1 | Java |
 | 645 | [Set Mismatch](0645-set-mismatch/) | Easy | 1 | Java |
 | 680 | [Valid Palindrome II](0680-valid-palindrome-ii/) | Easy | 1 | Java |
@@ -149,6 +155,7 @@ Synced automatically by LeetSync.
 | 1721 | [Swapping Nodes in a Linked List](1721-swapping-nodes-in-a-linked-list/) | Medium | 2 | Java |
 | 1732 | [Find the Highest Altitude](1732-find-the-highest-altitude/) | Easy | 1 | Java |
 | 1752 | [Check if Array Is Sorted and Rotated](1752-check-if-array-is-sorted-and-rotated/) | Easy | 1 | Java |
+| 1768 | [Merge Strings Alternately](1768-merge-strings-alternately/) | Easy | 1 | Java |
 | 1832 | [Check if the Sentence Is Pangram](1832-check-if-the-sentence-is-pangram/) | Easy | 1 | Java |
 | 1863 | [Sum of All Subset XOR Totals](1863-sum-of-all-subset-xor-totals/) | Easy | 1 | Java |
 | 1920 | [Build Array from Permutation](1920-build-array-from-permutation/) | Easy | 1 | Java |
