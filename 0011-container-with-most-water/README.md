@@ -45,5 +45,6 @@
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [container-with-most-water.java](container-with-most-water.java) | Java | Accepted | 5 ms (beats 82.4%) | 58 MB (beats 99.9%) | 2025-07-02 |
 | 2 | [2-container-with-most-water.java](2-container-with-most-water.java) | Java | Accepted | 5 ms (beats 82.4%) | 76.7 MB (beats 98.0%) | 2025-12-16 |
+| 3 | [3-container-with-most-water.java](3-container-with-most-water.java) | Java | Accepted | 5 ms (beats 82.4%) | 77.1 MB (beats 84.5%) | 2026-09-30 |
 
 <sub>Synced by LeetSync</sub>
