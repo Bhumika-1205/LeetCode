@@ -7,7 +7,7 @@ Synced automatically by LeetSync.
 
 | Solved | Easy | Medium | Hard | Solutions saved |
 |:-:|:-:|:-:|:-:|:-:|
-| **169** | 94 | 70 | 5 | 259 |
+| **173** | 97 | 71 | 5 | 263 |
 
 | # | Problem | Difficulty | Solutions | Languages |
 |--:|---------|------------|:-:|-----------|
@@ -84,6 +84,10 @@ Synced automatically by LeetSync.
 | 172 | [Factorial Trailing Zeroes](0172-factorial-trailing-zeroes/) | Medium | 1 | Java |
 | 175 | [Combine Two Tables](0175-combine-two-tables/) | Easy | 3 | MySQL |
 | 176 | [Second Highest Salary](0176-second-highest-salary/) | Medium | 1 | MySQL |
+| 181 | [Employees Earning More Than Their Managers](0181-employees-earning-more-than-their-managers/) | Easy | 1 | MySQL |
+| 182 | [Duplicate Emails](0182-duplicate-emails/) | Easy | 1 | MySQL |
+| 183 | [Customers Who Never Order](0183-customers-who-never-order/) | Easy | 1 | MySQL |
+| 184 | [Department Highest Salary](0184-department-highest-salary/) | Medium | 1 | MySQL |
 | 189 | [Rotate Array](0189-rotate-array/) | Medium | 3 | Java |
 | 190 | [Reverse Bits](0190-reverse-bits/) | Easy | 1 | Java |
 | 191 | [Number of 1 Bits](0191-number-of-1-bits/) | Easy | 2 | Java |
