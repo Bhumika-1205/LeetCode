@@ -7,7 +7,7 @@ Synced automatically by LeetSync.
 
 | Solved | Easy | Medium | Hard | Solutions saved |
 |:-:|:-:|:-:|:-:|:-:|
-| **164** | 93 | 66 | 5 | 250 |
+| **169** | 94 | 70 | 5 | 259 |
 
 | # | Problem | Difficulty | Solutions | Languages |
 |--:|---------|------------|:-:|-----------|
@@ -20,10 +20,12 @@ Synced automatically by LeetSync.
 | 7 | [Reverse Integer](0007-reverse-integer/) | Medium | 3 | Java |
 | 8 | [String to Integer (atoi)](0008-string-to-integer-atoi/) | Medium | 1 | Java |
 | 9 | [Palindrome Number](0009-palindrome-number/) | Easy | 2 | Java |
-| 11 | [Container With Most Water](0011-container-with-most-water/) | Medium | 2 | Java |
+| 11 | [Container With Most Water](0011-container-with-most-water/) | Medium | 3 | Java |
 | 14 | [Longest Common Prefix](0014-longest-common-prefix/) | Easy | 2 | Java |
 | 15 | [3Sum](0015-3sum/) | Medium | 1 | Java |
+| 16 | [3Sum Closest](0016-3sum-closest/) | Medium | 2 | Java |
 | 17 | [Letter Combinations of a Phone Number](0017-letter-combinations-of-a-phone-number/) | Medium | 1 | Java |
+| 18 | [4Sum](0018-4sum/) | Medium | 1 | Java |
 | 19 | [Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/) | Medium | 1 | Java |
 | 20 | [Valid Parentheses](0020-valid-parentheses/) | Easy | 1 | Java |
 | 21 | [Merge Two Sorted Lists](0021-merge-two-sorted-lists/) | Easy | 1 | Java |
@@ -42,6 +44,7 @@ Synced automatically by LeetSync.
 | 53 | [Maximum Subarray](0053-maximum-subarray/) | Medium | 2 | Java |
 | 54 | [Spiral Matrix](0054-spiral-matrix/) | Medium | 1 | Java |
 | 55 | [Jump Game](0055-jump-game/) | Medium | 1 | Java |
+| 56 | [Merge Intervals](0056-merge-intervals/) | Medium | 1 | Java |
 | 58 | [Length of Last Word](0058-length-of-last-word/) | Easy | 1 | Java |
 | 59 | [Spiral Matrix II](0059-spiral-matrix-ii/) | Medium | 1 | Java |
 | 61 | [Rotate List](0061-rotate-list/) | Medium | 1 | Java |
@@ -79,6 +82,8 @@ Synced automatically by LeetSync.
 | 167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/) | Medium | 1 | Java |
 | 169 | [Majority Element](0169-majority-element/) | Easy | 2 | Java |
 | 172 | [Factorial Trailing Zeroes](0172-factorial-trailing-zeroes/) | Medium | 1 | Java |
+| 175 | [Combine Two Tables](0175-combine-two-tables/) | Easy | 3 | MySQL |
+| 176 | [Second Highest Salary](0176-second-highest-salary/) | Medium | 1 | MySQL |
 | 189 | [Rotate Array](0189-rotate-array/) | Medium | 3 | Java |
 | 190 | [Reverse Bits](0190-reverse-bits/) | Easy | 1 | Java |
 | 191 | [Number of 1 Bits](0191-number-of-1-bits/) | Easy | 2 | Java |
