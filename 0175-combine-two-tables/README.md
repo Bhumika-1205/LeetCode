@@ -82,5 +82,6 @@ addressId = 1 contains information about the address of personId = 2.
 |---|------|----------|--------|---------|--------|-----------|
 | 1 | [combine-two-tables.sql](combine-two-tables.sql) | MySQL | Accepted | 1286 ms (beats 5.0%) | 0B (beats 100.0%) | 2026-10-08 |
 | 2 | [2-combine-two-tables.sql](2-combine-two-tables.sql) | MySQL | Accepted | 642 ms (beats 7.2%) | 0B (beats 100.0%) | 2026-10-08 |
+| 3 | [3-combine-two-tables.sql](3-combine-two-tables.sql) | MySQL | Accepted | 485 ms (beats 28.9%) | 0B (beats 100.0%) | 2026-10-08 |
 
 <sub>Synced by LeetSync</sub>
